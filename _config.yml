@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "笔记仓库"
+title                    : "dt的游乐园🎠"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Datoo"
@@ -186,6 +186,11 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+safe: true
+# source: "/"
+
+gist:
+  noscript: false
 
 # Markdown Processing
 kramdown:
@@ -197,7 +202,8 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 # Sass/SCSS
 sass:
