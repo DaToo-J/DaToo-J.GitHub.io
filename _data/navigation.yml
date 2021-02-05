@@ -12,8 +12,8 @@ main:
   - title: "Series"
     url: /#series
     description: "系列题"
-  - title: "Contact Me"
-    url: /contactme/
+  - title: "Contact With Me"
+    url: /#footer
     description: "联系方式"
 
   # - title: "Quick-Start Guide"
