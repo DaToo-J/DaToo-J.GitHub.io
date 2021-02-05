@@ -4,13 +4,13 @@ main:
     url: /
     description: "首页"
   - title: "Basic"
-    url: /basic/
+    url: /#basic
     description: "基础"
   - title: "Medium"
-    url: /medium/
+    url: /#medium
     description: "进阶"
   - title: "Series"
-    url: /series/
+    url: /#series
     description: "系列题"
   - title: "Contact Me"
     url: /contactme/
