@@ -3,15 +3,16 @@ main:
   - title: "Home"
     url: /
     description: "首页"
-  - title: "Basic"
-    url: /#basic
-    description: "基础"
-  - title: "Medium"
-    url: /#medium
-    description: "进阶"
-  - title: "Series"
-    url: /#series
-    description: "系列题"
+    children:
+      - title: "Basic"
+        url: /#basic
+        description: "基础"
+      - title: "Medium"
+        url: /#medium
+        description: "进阶"
+      - title: "Series"
+        url: /#series
+        description: "系列题"
   - title: "Contact With Me"
     url: /#footer
     description: "联系方式"
