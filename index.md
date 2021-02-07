@@ -23,24 +23,37 @@ sidebar:
 
 2. **Linked List**
 
-    - [ ] [链表总结](./_posts/2021-01-31-linked-list-summary.md)
+    |     | No  | Problem                                                | Difficulty |
+    | --- | --- | ------------------------------------------------------ | ---------- |
+    |     |     | [链表总结](./_posts/2021-01-31-linked-list-summary.md) |            |
+    |     | 61  | [旋转链表](./_posts/2021-02-07-rotate-list.md)                  | 中等       |
 
-3. **Queue**
+1. **Queue**
 
-    - [ ] [队列总结]
+    |     | No  | Problem  | Difficulty |
+    | --- | --- | -------- | ---------- |
+    |     |     | 队列总结 |            |
+    |     |     |          |            |
 
-4. **Trie**
+2. **Trie**
 
-    - [ ] [前缀树总结]
+    |     | No  | Problem    | Difficulty |
+    | --- | --- | ---------- | ---------- |
+    |     |     | 前缀树总结 |            |
+    |     |     |            |            |
 
-5. **Tree**
+3. **Tree**
 
-    - [ ] [树总结](./_posts/2021-02-04-tree-summary.md)
+    |     | No  | Problem | Difficulty |
+    | --- | --- | ------- | ---------- |
+    |     |     | 树总结  |            |
+    |     |     |         |            |
+4. **Hashmap**
 
-6. **Hashmap**
-
-    - [ ] [哈希表总结]
-
+    |     | No  | Problem    | Difficulty |
+    | --- | --- | ---------- | ---------- |
+    |     |     | 哈希表总结 |            |
+    |     |     |            |            |
 
 
 ----
@@ -50,35 +63,59 @@ sidebar:
 
 1. **Backtracking**
 
-    - [ ] [回溯总结]
+    |     | No  | Problem  | Difficulty |
+    | --- | --- | -------- | ---------- |
+    |     |     | 回溯总结 |            |
+    |     |     |          |            |
 
 2. **Graph Searching**
 
-    - [ ] [网格搜索总结]
+    |     | No  | Problem      | Difficulty |
+    | --- | --- | ------------ | ---------- |
+    |     |     | 网格搜索总结 |            |
+    |     |     |              |            |
 
 3. **Sort**
 
-    - [ ] [排序总结]
+    |     | No  | Problem  | Difficulty |
+    | --- | --- | -------- | ---------- |
+    |     |     | 排序总结 |            |
+    |     |     |          |            |
 
 4. **Binary Search**
 
-    - [ ] [二分搜索总结]
+    |     | No  | Problem      | Difficulty |
+    | --- | --- | ------------ | ---------- |
+    |     |     | 二分搜索总结 |            |
+    |     |     |              |            |
 
 5. **Two Pointers**
 
-    - [ ] [双指针总结]
+    |     | No  | Problem    | Difficulty |
+    | --- | --- | ---------- | ---------- |
+    |     |     | 双指针总结 |            |
+    |     |     |            |            |
 
 6. **Dynamic Programming**
 
-    - [ ] [动态规划总结]
+    |     | No  | Problem      | Difficulty |
+    | --- | --- | ------------ | ---------- |
+    |     |     | 动态规划总结 |            |
+    |     |     |              |            |
 
 7. **Union Find**
 
-    - [ ] [并查集总结]
+    |     | No  | Problem    | Difficulty |
+    | --- | --- | ---------- | ---------- |
+    |     |     | 并查集总结 |            |
+    |     |     |            |            |
 
 8. **Bit Manipulation**
 
-    - [ ] [位运算总结]
+    |     | No  | Problem    | Difficulty |
+    | --- | --- | ---------- | ---------- |
+    |     |     | 位运算总结 |            |
+    |     |     |            |            |
 
 ----
 # Series
