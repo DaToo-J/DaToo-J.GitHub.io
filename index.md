@@ -7,7 +7,7 @@ sidebar:
   nav: "main"
 ---
 
-> This website is mainly for storing my notes when solving data structure and algorithm problems in LeetCode.
+> This website is mainly for storing my notes when solving data structure and algorithm problems in LeetCode. If you have some questions, please feel free to ask me or give some advise to me. :D
 
 # Basic
 
@@ -15,14 +15,15 @@ sidebar:
 
 1. **List & Stack**
 
-    |     | No  | Problem                                            | Difficulty |
-    | --- | --- | -------------------------------------------------- | ---------- |
-    |     |     | [数组总结]    |            |
-    |     | 394 | [字符串解码](./_posts/2021-02-06-decode-string.md) | 中等       |
+    |     | No  | Problem                                                                   | Difficulty |
+    | --- | --- | ------------------------------------------------------------------------- | ---------- |
+    |     |     | [数组总结](./_posts/2021-02-03-list-summary.md)                           |            |
+    |     | 394 | [字符串解码](./_posts/2021-02-06-decode-string.md)                        | 中等       |
+    |     | 768 | [最多能完成排序的块 II](./_posts/2021-02-07-max-chunks-to-make-sorted.md) | 困难       |
 
 2. **Linked List**
 
-    - [ ] [链表总结]
+    - [ ] [链表总结](./_posts/2021-01-31-linked-list-summary.md)
 
 3. **Queue**
 
@@ -34,7 +35,7 @@ sidebar:
 
 5. **Tree**
 
-    - [ ] [树总结]
+    - [ ] [树总结](./_posts/2021-02-04-tree-summary.md)
 
 6. **Hashmap**
 
