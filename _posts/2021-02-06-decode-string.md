@@ -11,13 +11,13 @@ tags: 基础 数组 栈
 title: 
 ---
 
-#### 思路
+## 思路
 
 > 题目链接：[字符串解码](https://leetcode-cn.com/problems/decode-string/)
 
 ![decode-string]({{ "./assets/images/decode-string.png" | absolute_url }})
 
-#### 代码
+## 代码
 
 ```python
 class Solution:
@@ -40,7 +40,7 @@ class Solution:
         return tmp
 ```
 
-#### 分析
+## 分析
 
 1. 时间复杂度需要 `O(n)`， 空间复杂度需要 `O(1)`
 
