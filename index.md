@@ -23,11 +23,12 @@ sidebar:
 
 2. **Linked List**
 
-    |     | No  | Problem                                                           | Difficulty |
-    | --- | --- | ----------------------------------------------------------------- | ---------- |
-    |     |     | [链表总结](./_posts/2021-01-31-linked-list-summary.md)            |            |
+    |     | No  | Problem                                                            | Difficulty |
+    | --- | --- | ------------------------------------------------------------------ | ---------- |
+    |     |     | [链表总结](./_posts/2021-01-31-linked-list-summary.md)             |            |
     |     | 24  | [两两交换链表中的节点](./_posts/2021-02-08-swap-nodes-in-pairs.md) | 中等       |
-    |     | 61  | [旋转链表](./_posts/2021-02-07-rotate-list.md)                    | 中等       |
+    |     | 61  | [旋转链表](./_posts/2021-02-07-rotate-list.md)                     | 中等       |
+
 1. **Queue**
 
     |     | No  | Problem  | Difficulty |
@@ -44,10 +45,12 @@ sidebar:
 
 3. **Tree**
 
-    |     | No  | Problem | Difficulty |
-    | --- | --- | ------- | ---------- |
-    |     |     | 树总结  |            |
-    |     |     |         |            |
+    |     | No  | Problem                                                                                         | Difficulty |
+    | --- | --- | ----------------------------------------------------------------------------------------------- | ---------- |
+    |     |     | [树总结](./_posts/2021-02-04-tree-summary.md)                                                   |            |
+    |     | 108 | [将有序数组转换为二叉搜索树](./_posts/2021-02-08-convert-sorted-array-to-binary-search-tree.md) | 简单       |
+    |     | 110 | [平衡二叉树](./_posts/2021-02-08-balanced-binary-tree.md)                                       | 简单       |
+
 4. **Hashmap**
 
     |     | No  | Problem    | Difficulty |
