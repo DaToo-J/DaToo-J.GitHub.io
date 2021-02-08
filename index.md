@@ -23,11 +23,11 @@ sidebar:
 
 2. **Linked List**
 
-    |     | No  | Problem                                                | Difficulty |
-    | --- | --- | ------------------------------------------------------ | ---------- |
-    |     |     | [链表总结](./_posts/2021-01-31-linked-list-summary.md) |            |
-    |     | 61  | [旋转链表](./_posts/2021-02-07-rotate-list.md)                  | 中等       |
-
+    |     | No  | Problem                                                           | Difficulty |
+    | --- | --- | ----------------------------------------------------------------- | ---------- |
+    |     |     | [链表总结](./_posts/2021-01-31-linked-list-summary.md)            |            |
+    |     | 24  | [两两交换链表中的节点](./_posts/2021-02-08-swap-nodes-in-pairs.md) | 中等       |
+    |     | 61  | [旋转链表](./_posts/2021-02-07-rotate-list.md)                    | 中等       |
 1. **Queue**
 
     |     | No  | Problem  | Difficulty |
