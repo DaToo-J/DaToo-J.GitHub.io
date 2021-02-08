@@ -16,7 +16,7 @@ title:
 
 > 题目链接：[24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 
-![decode-string]({{ "./assets/images/swap-nodes-1.png" | absolute_url }})
+![decode-string]({{ "./assets/images/swap-nodes-1.jpg" | absolute_url }})
 
 ## 代码 I
 
@@ -63,7 +63,7 @@ class Solution:
 
 ## 思路 II
 
-![decode-string]({{ "./assets/images/swap-nodes-2.png" | absolute_url }})
+![decode-string]({{ "./assets/images/swap-nodes-2.jpg" | absolute_url }})
 
 
 ## 代码 II
