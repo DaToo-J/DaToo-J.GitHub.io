@@ -8,7 +8,7 @@ sidebar:
   nav: "main"
 
 tags: 基础 数组 栈
-title: 
+title: 768 最多能完成排序的块 II
 ---
 
 ## 题目

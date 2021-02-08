@@ -8,7 +8,7 @@ sidebar:
   nav: "main"
 
 tags: 基础 链表
-title: 
+title: 61 旋转链表
 ---
 
 ## 题目
