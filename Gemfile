@@ -1,4 +1,4 @@
-source "https://www.rubygems.org"
+source "http://gems.ruby-china.com/"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -15,7 +15,8 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
-
+gem 'jekyll-latex'
+# gem 'jekyll-archives'
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
 #   gem "jekyll-sitemap"
