@@ -49,6 +49,7 @@ sidebar:
     | --- | --- | ----------------------------------------------------------------------------------------------- | ---------- |
     |     |     | [树总结](./_posts/2021-02-04-tree-summary.md)                                                   |            |
     |     | 108 | [将有序数组转换为二叉搜索树](./_posts/2021-02-08-convert-sorted-array-to-binary-search-tree.md) | 简单       |
+    |     | 109   |  [有序链表转换二叉搜索树](./_posts/2021-02-09-convert-sorted-list-to-binary-search-tree.md)          |    中等        |
     |     | 110 | [平衡二叉树](./_posts/2021-02-08-balanced-binary-tree.md)                                       | 简单       |
 
 4. **Hashmap**

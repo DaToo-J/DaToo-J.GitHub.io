@@ -85,7 +85,7 @@ title: 树总结
    | 110          | 平衡二叉树                 | 简单       | [题目](https://leetcode-cn.com/problems/balanced-binary-tree/)                       | [题解]({% link _posts/2021-02-08-balanced-binary-tree.md %})                       |
    | 剑指offer 55 | 平衡二叉树                 | 简单       | [题目](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)                  | [题解]({% link _posts/2021-02-08-balanced-binary-tree.md %})，与上题相同           |
    | 108          | 将有序数组转换为二叉搜索树 | 简单       | [题目](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [题解]({% link _posts/2021-02-08-convert-sorted-array-to-binary-search-tree.md %}) |
-   | 109          | 有序链表转换二叉搜索树     | 中等       | [题目](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)  |
+   | 109          | 有序链表转换二叉搜索树     | 中等       | [题目](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)  | [题解]({% link _posts/2021-02-09-convert-sorted-list-to-binary-search-tree.md %})
    | 1382         | 将二叉搜索树变平衡         | 中等       | [题目](https://leetcode-cn.com/problems/balance-a-binary-search-tree/)               |
 
 # 树的遍历方式
