@@ -35,6 +35,7 @@ sidebar:
     | --- | --- | -------- | ---------- |
     |     |     | [队列总结](./_posts/2021-02-09-queue-summary.md) |            |
     |     |  200    |   [岛屿数量](./_posts/2021-02-09-number-of-islands.md)       |   中等         |
+    |     |  279    |   [完全平方数](./_posts/2021-02-09-perfect-squares.md)       |   中等         |
     |     |  622    |   [设计循环队列](./_posts/2021-02-09-design-circular-queue.md)       |   中等         |
     |     |     |          |            |
 
@@ -117,6 +118,7 @@ sidebar:
     |     | No  | Problem      | Difficulty |
     | --- | --- | ------------ | ---------- |
     |     |     | 动态规划总结 |            |
+    |     |  279    |   [完全平方数](./_posts/2021-02-09-perfect-squares.md)       |   中等         |
     |     |     |              |            |
 
 7. **Union Find**
