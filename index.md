@@ -13,7 +13,7 @@ sidebar:
 
 > This part is mainly for basic data structure.
 
-1. **List & Stack**
+1. **Array**
 
     |     | No  | Problem                                                                   | Difficulty |
     | --- | --- | ------------------------------------------------------------------------- | ---------- |
@@ -29,21 +29,23 @@ sidebar:
     |     | 24  | [两两交换链表中的节点](./_posts/2021-02-08-swap-nodes-in-pairs.md) | 中等       |
     |     | 61  | [旋转链表](./_posts/2021-02-07-rotate-list.md)                     | 中等       |
 
-1. **Queue**
+3. **Queue**
 
     |     | No  | Problem  | Difficulty |
     | --- | --- | -------- | ---------- |
-    |     |     | 队列总结 |            |
+    |     |     | [队列总结](./_posts/2021-02-09-queue-summary.md) |            |
+    |     |  200    |   [岛屿数量](./_posts/2021-02-09-number-of-islands.md)       |   中等         |
+    |     |  622    |   [设计循环队列](./_posts/2021-02-09-design-circular-queue.md)       |   中等         |
     |     |     |          |            |
 
-2. **Trie**
+4. **Stack**
 
     |     | No  | Problem    | Difficulty |
     | --- | --- | ---------- | ---------- |
-    |     |     | 前缀树总结 |            |
+    |     |     | 栈总结 |            |
     |     |     |            |            |
 
-3. **Tree**
+5. **Tree**
 
     |     | No   | Problem                                                                                         | Difficulty |
     | --- | ---- | ----------------------------------------------------------------------------------------------- | ---------- |
@@ -53,7 +55,16 @@ sidebar:
     |     | 110  | [平衡二叉树](./_posts/2021-02-08-balanced-binary-tree.md)                                       | 简单       |
     |     | 1382 | [将二叉搜索树变平衡](./_posts/2021-02-09-balance-a-binary-search-tree.md)                       | 中等       |
 
-4. **Hashmap**
+
+6. **Trie**
+
+    |     | No  | Problem    | Difficulty |
+    | --- | --- | ---------- | ---------- |
+    |     |     | 前缀树总结 |            |
+    |     |     |            |            |
+
+
+7. **Hashmap**
 
     |     | No  | Problem    | Difficulty |
     | --- | --- | ---------- | ---------- |
