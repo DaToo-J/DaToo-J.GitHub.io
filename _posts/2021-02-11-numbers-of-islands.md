@@ -57,6 +57,8 @@ title: 200 岛屿数量
 ## 思路 
 
 > BFS 解法见：[岛屿数量]({% link _posts/2021-02-09-number-of-islands.md %}) 
+> 
+> DFS 解法的栈的实现见：[岛屿数量]({% link _posts/2021-02-11-num-of-islands.md %}) 
 
 1. 依然延续 [岛屿数量 BFS解法]({% link _posts/2021-02-09-number-of-islands.md %}) 的思路，只不过换成 DFS 的遍历方法。
 

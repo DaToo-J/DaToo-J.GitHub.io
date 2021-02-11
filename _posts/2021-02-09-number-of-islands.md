@@ -56,7 +56,9 @@ title: 200 岛屿数量
 
 ## 思路 
 
-> DFS 解法见：[岛屿数量]({% link _posts/2021-02-11-numbers-of-islands.md %}) 
+> DFS 解法的栈的实现见：[岛屿数量]({% link _posts/2021-02-11-num-of-islands.md %}) 
+> 
+> DFS 解法的递归实现见：[岛屿数量]({% link _posts/2021-02-11-numbers-of-islands.md %}) 
 
 1. 写一个函数 `bfs(x, y)`，其作用是：遍历以 `(x, y)` 为起始节点（即 `grid[x][y] = "1"`）的岛屿的所有节点。防止下次还会遍历这些节点，需将这些节点都置 `"0"`。
 
