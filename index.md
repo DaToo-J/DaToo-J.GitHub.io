@@ -43,7 +43,7 @@ sidebar:
 
     |     | No  | Problem    | Difficulty |
     | --- | --- | ---------- | ---------- |
-    |     |     | 栈总结 |            |
+    |     |     | [栈总结](./_posts/2021-02-09-stack-summary.md) |            |
     |     |     |            |            |
 
 5. **Tree**
@@ -83,6 +83,7 @@ sidebar:
     |     | No  | Problem  | Difficulty |
     | --- | --- | -------- | ---------- |
     |     |     | 回溯总结 |            |
+    |     |  200    |   [岛屿数量](./_posts/2021-02-11-numbers-of-islands.md)       |   中等         |
     |     |     |          |            |
 
 2. **Graph Searching**
