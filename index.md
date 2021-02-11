@@ -31,20 +31,21 @@ sidebar:
 
 3. **Queue**
 
-    |     | No  | Problem  | Difficulty |
-    | --- | --- | -------- | ---------- |
-    |     |     | [队列总结](./_posts/2021-02-09-queue-summary.md) |            |
-    |     |  200    |   [岛屿数量](./_posts/2021-02-09-number-of-islands.md)       |   中等         |
-    |     |  279    |   [完全平方数](./_posts/2021-02-09-perfect-squares.md)       |   中等         |
-    |     |  622    |   [设计循环队列](./_posts/2021-02-09-design-circular-queue.md)       |   中等         |
-    |     |     |          |            |
+    |     | No  | Problem                                                      | Difficulty |
+    | --- | --- | ------------------------------------------------------------ | ---------- |
+    |     |     | [队列总结](./_posts/2021-02-09-queue-summary.md)             |            |
+    |     | 200 | [岛屿数量](./_posts/2021-02-09-number-of-islands.md)         | 中等       |
+    |     | 279 | [完全平方数](./_posts/2021-02-09-perfect-squares.md)         | 中等       |
+    |     | 622 | [设计循环队列](./_posts/2021-02-09-design-circular-queue.md) | 中等       |
+    |     |     |                                                              |            |
 
 4. **Stack**
 
-    |     | No  | Problem    | Difficulty |
-    | --- | --- | ---------- | ---------- |
-    |     |     | [栈总结](./_posts/2021-02-09-stack-summary.md) |            |
-    |     |     |            |            |
+    |     | No  | Problem                                           | Difficulty |
+    | --- | --- | ------------------------------------------------- | ---------- |
+    |     |     | [栈总结](./_posts/2021-02-09-stack-summary.md)    |            |
+    |     | 200 | [岛屿数量](./_posts/2021-02-11-num-of-islands.md) | 中等       |
+    |     |     |                                                   |            |
 
 5. **Tree**
 
@@ -80,11 +81,11 @@ sidebar:
 
 1. **Backtracking**
 
-    |     | No  | Problem  | Difficulty |
-    | --- | --- | -------- | ---------- |
-    |     |     | 回溯总结 |            |
-    |     |  200    |   [岛屿数量](./_posts/2021-02-11-numbers-of-islands.md)       |   中等         |
-    |     |     |          |            |
+    |     | No  | Problem                                               | Difficulty |
+    | --- | --- | ----------------------------------------------------- | ---------- |
+    |     |     | 回溯总结                                              |            |
+    |     | 200 | [岛屿数量](./_posts/2021-02-11-numbers-of-islands.md) | 中等       |
+    |     |     |                                                       |            |
 
 2. **Graph Searching**
 
@@ -116,11 +117,11 @@ sidebar:
 
 6. **Dynamic Programming**
 
-    |     | No  | Problem      | Difficulty |
-    | --- | --- | ------------ | ---------- |
-    |     |     | 动态规划总结 |            |
-    |     |  279    |   [完全平方数](./_posts/2021-02-09-perfect-squares.md)       |   中等         |
-    |     |     |              |            |
+    |     | No  | Problem                                              | Difficulty |
+    | --- | --- | ---------------------------------------------------- | ---------- |
+    |     |     | 动态规划总结                                         |            |
+    |     | 279 | [完全平方数](./_posts/2021-02-09-perfect-squares.md) | 中等       |
+    |     |     |                                                      |            |
 
 7. **Union Find**
 
@@ -141,10 +142,20 @@ sidebar:
 
 > This part is mainly for some relevant problems. Maybe you have seen them in previous chapter, maybe not.
 
-1. **Reversed Linked List**
+1. **Numbers of Islands**
+
+    > 岛屿数量：[题目](https://leetcode-cn.com/problems/number-of-islands/)
+
+    | Solution   | Link                                                           |
+    | ---------- | -------------------------------------------------------------- |
+    | BFS + 队列 | [岛屿数量]({% link _posts/2021-02-09-number-of-islands.md %})  |
+    | DFS + 递归 | [岛屿数量]({% link _posts/2021-02-11-numbers-of-islands.md %}) |
+    | DFS + 栈   | [岛屿数量]({% link _posts/2021-02-11-num-of-islands.md %})     |
+
+2. **Reversed Linked List**
 
     > 反转链表
 
-2. **Traversal for Tree**
+3. **Traversal for Tree**
 
     > 树的遍历
