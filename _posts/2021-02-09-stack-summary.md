@@ -85,4 +85,5 @@ def dfs(root, target):
    | No           | Problem                    | Difficulty | Link                                                                                 | Solution                                                                           | Comment |
    | ------------ | -------------------------- | ---------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | --- |
    | 200          | 岛屿数量                 | 中等       | [题目](https://leetcode-cn.com/problems/number-of-islands/)                       | [题解]({% link _posts/2021-02-11-numbers-of-islands.md %})                          |  DFS + 递归的解法 |
+   | 200          | 岛屿数量                 | 中等       | [题目](https://leetcode-cn.com/problems/number-of-islands/)                       | [题解]({% link _posts/2021-02-11-num-of-islands.md %})                          |  DFS + 栈的解法 |
 
