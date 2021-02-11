@@ -7,7 +7,7 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: BFS 队列 深度优先
+tags: BFS 队列 广度优先
 title: 200 岛屿数量
 ---
 
