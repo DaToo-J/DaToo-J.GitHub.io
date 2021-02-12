@@ -32,10 +32,10 @@ title: 栈总结
 
 4. DFS VS BFS
 
-    |          | DFS | BFS  |
-    | -------- | --- | ---- |
-    | 最常使用 | 栈  | 队列 |
-    |           | 更早访问的结点可能不是更靠近根结点的结点  |   擅长找最短路径  |
+    |          | DFS                                      | BFS            |
+    | -------- | ---------------------------------------- | -------------- |
+    | 最常使用 | 栈                                       | 队列           |
+    |          | 更早访问的结点可能不是更靠近根结点的结点 | 擅长找最短路径 |
 
 
 # 模板
@@ -82,8 +82,10 @@ def dfs(root, target):
 # 相关题目
 
 
-   | No           | Problem                    | Difficulty | Link                                                                                 | Solution                                                                           | Comment |
-   | ------------ | -------------------------- | ---------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | --- |
-   | 200          | 岛屿数量                 | 中等       | [题目](https://leetcode-cn.com/problems/number-of-islands/)                       | [题解]({% link _posts/2021-02-11-numbers-of-islands.md %})                          |  DFS + 递归的解法 |
-   | 200          | 岛屿数量                 | 中等       | [题目](https://leetcode-cn.com/problems/number-of-islands/)                       | [题解]({% link _posts/2021-02-11-num-of-islands.md %})                          |  DFS + 栈的解法 |
+   | No  | Problem          | Difficulty | Link                                                                    | Solution                                                              | Comment            |
+   | --- | ---------------- | ---------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------ |
+   | 94  | 二叉树的中序遍历 | 中等       | [题目](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [题解]({% link _posts/2021-02-12-binary-tree-inorder-traversal.md %}) | 中序遍历的栈的实现 |
+   | 200 | 岛屿数量         | 中等       | [题目](https://leetcode-cn.com/problems/number-of-islands/)             | [题解]({% link _posts/2021-02-11-numbers-of-islands.md %})            | DFS + 递归的解法   |
+   | 200 | 岛屿数量         | 中等       | [题目](https://leetcode-cn.com/problems/number-of-islands/)             | [题解]({% link _posts/2021-02-11-num-of-islands.md %})                | DFS + 栈的解法     |
+   | 739  | 每日温度 | 中等       | [题目](https://leetcode-cn.com/problems/daily-temperatures/) | [题解]({% link _posts/2021-02-12-daily-temperatures.md %}) | 栈的经典题目 |
 

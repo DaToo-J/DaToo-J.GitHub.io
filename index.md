@@ -41,11 +41,12 @@ sidebar:
 
 4. **Stack**
 
-    |     | No  | Problem                                           | Difficulty |
-    | --- | --- | ------------------------------------------------- | ---------- |
-    |     |     | [栈总结](./_posts/2021-02-09-stack-summary.md)    |            |
-    |     | 200 | [岛屿数量](./_posts/2021-02-11-num-of-islands.md) | 中等       |
-    |     |     |                                                   |            |
+    |     | No  | Problem                                                                  | Difficulty |
+    | --- | --- | ------------------------------------------------------------------------ | ---------- |
+    |     |     | [栈总结](./_posts/2021-02-09-stack-summary.md)                           |            |
+    |     | 94  | [二叉树的中序遍历](./_posts/2021-02-12-binary-tree-inorder-traversal.md) | 中等       |
+    |     | 200 | [岛屿数量](./_posts/2021-02-11-num-of-islands.md)                        | 中等       |
+    |     | 739 | [每日温度](./_posts/2021-02-12-daily-temperatures.md)                    | 中等       |
 
 5. **Tree**
 
