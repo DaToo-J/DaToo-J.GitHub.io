@@ -85,6 +85,7 @@ def dfs(root, target):
    | No  | Problem          | Difficulty | Link                                                                    | Solution                                                              | Comment            |
    | --- | ---------------- | ---------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------ |
    | 94  | 二叉树的中序遍历 | 中等       | [题目](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [题解]({% link _posts/2021-02-12-binary-tree-inorder-traversal.md %}) | 中序遍历的栈的实现 |
+   | 150  | 逆波兰表达式求值 | 中等       | [题目](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [题解]({% link _posts/2021-02-13-evaluate-reverse-polish-notation.md %}) | 栈的经典应用 |
    | 200 | 岛屿数量         | 中等       | [题目](https://leetcode-cn.com/problems/number-of-islands/)             | [题解]({% link _posts/2021-02-11-numbers-of-islands.md %})            | DFS + 递归的解法   |
    | 200 | 岛屿数量         | 中等       | [题目](https://leetcode-cn.com/problems/number-of-islands/)             | [题解]({% link _posts/2021-02-11-num-of-islands.md %})                | DFS + 栈的解法     |
    | 739  | 每日温度 | 中等       | [题目](https://leetcode-cn.com/problems/daily-temperatures/) | [题解]({% link _posts/2021-02-12-daily-temperatures.md %}) | 栈的经典题目 |
