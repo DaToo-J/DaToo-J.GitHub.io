@@ -33,6 +33,80 @@ title: 队列总结
 
 ## 优先队列
 
+# 使用
+
+> 如果你有多个线程并且你希望它们能够在不需要锁的情况下进行通信，那么你正在寻找Queue.Queue;如果您只想将队列或双端队列作为数据结构，请使用collections.deque。
+
+## `queue`
+
+> 普通队列
+
+```python
+import queue
+
+q = queue.Queue()
+
+# 放入元素
+q.put(item)
+
+# 获取元素（并删除）
+q.get()
+
+# 是否为空
+# 不管 q 是否为空 or 已满，都不能保证 put 和 get 不会被阻塞
+q.empty()
+
+# 是否已满
+q.full()
+```
+
+## `deque`
+
+> 双端队列：在队列的两端都可以进行插入和删除
+
+```python
+from collections import deque
+
+dq = deque()
+
+# 添加元素
+dq.append(item)
+dq.appendleft(item)
+
+# 指定位置插入
+dq.insert(index, item)
+
+# 扩展队列
+dq.extend([item1, ...])
+dq.extendleft([item1, ...])
+
+# 获取元素（并删除）
+dq.pop()
+dq.popleft()
+
+# 删除指定元素
+dq.remove(item)
+
+# 清空
+dq.clear()
+
+# 浅拷贝
+dq.copy()
+
+# 队列反转
+dq.reverse()
+
+# 队列旋转
+dq.rotate()
+
+# 统计次数
+dq.count(item)
+
+# 查找索引
+dq.index(item)
+```
+
+
 # 应用
 
 ## BFS
