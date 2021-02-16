@@ -34,7 +34,7 @@ sidebar:
     |     | No  | Problem                                                      | Difficulty |
     | --- | --- | ------------------------------------------------------------ | ---------- |
     |     |     | [队列总结](./_posts/2021-02-09-queue-summary.md)             |            |
-    |  | 133  | [克隆图](./_posts/2021-02-13-clone-graph.md)  | 中等       |  
+    |     | 133 | [克隆图](./_posts/2021-02-13-clone-graph.md)                 | 中等       |
     |     | 200 | [岛屿数量](./_posts/2021-02-09-number-of-islands.md)         | 中等       |
     |     | 279 | [完全平方数](./_posts/2021-02-09-perfect-squares.md)         | 中等       |
     |     | 622 | [设计循环队列](./_posts/2021-02-09-design-circular-queue.md) | 中等       |
@@ -42,13 +42,13 @@ sidebar:
 
 4. **Stack**
 
-    |     | No  | Problem                                                                  | Difficulty |
-    | --- | --- | ------------------------------------------------------------------------ | ---------- |
-    |     |     | [栈总结](./_posts/2021-02-09-stack-summary.md)                           |            |
-    |     | 94  | [二叉树的中序遍历](./_posts/2021-02-12-binary-tree-inorder-traversal.md) | 中等       |
-    |     | 150  | [逆波兰表达式求值](./_posts/2021-02-13-evaluate-reverse-polish-notation.md) | 中等       |
-    |     | 200 | [岛屿数量](./_posts/2021-02-11-num-of-islands.md)                        | 中等       |
-    |     | 739 | [每日温度](./_posts/2021-02-12-daily-temperatures.md)                    | 中等       |
+    |     | No  | Problem                                                                     | Difficulty |
+    | --- | --- | --------------------------------------------------------------------------- | ---------- |
+    |     |     | [栈总结](./_posts/2021-02-09-stack-summary.md)                              |            |
+    |     | 94  | [二叉树的中序遍历](./_posts/2021-02-12-binary-tree-inorder-traversal.md)    | 中等       |
+    |     | 150 | [逆波兰表达式求值](./_posts/2021-02-13-evaluate-reverse-polish-notation.md) | 中等       |
+    |     | 200 | [岛屿数量](./_posts/2021-02-11-num-of-islands.md)                           | 中等       |
+    |     | 739 | [每日温度](./_posts/2021-02-12-daily-temperatures.md)                       | 中等       |
 
 5. **Tree**
 
@@ -87,24 +87,26 @@ sidebar:
     |     | No  | Problem                                               | Difficulty |
     | --- | --- | ----------------------------------------------------- | ---------- |
     |     |     | 回溯总结                                              |            |
-    |  | 133  | [克隆图](./_posts/2021-02-13-clone-graph.md)  | 中等       |  
+    |     | 133 | [克隆图](./_posts/2021-02-13-clone-graph.md)          | 中等       |
     |     | 200 | [岛屿数量](./_posts/2021-02-11-numbers-of-islands.md) | 中等       |
     |     |     |                                                       |            |
 
 2. **Graph Searching**
    1. BFS
 
-        |     | No  | Problem      | Difficulty |
-        | --- | --- | ------------ | ---------- |
-        |     |     | 网格搜索总结 |            |
-        |     |  752   |   [打开转盘锁](./_posts/2021-02-15-open-the-lock.md)           |       中等     |
+        |     | No  | Problem                                            | Difficulty |
+        | --- | --- | -------------------------------------------------- | ---------- |
+        |     |     | 网格搜索总结                                       |            |
+        |     | 752 | [打开转盘锁](./_posts/2021-02-15-open-the-lock.md) | 中等       |
 
    2. DFS
 
-        |     | No  | Problem      | Difficulty |
-        | --- | --- | ------------ | ---------- |
-        |     |     | 网格搜索总结 |            |
-        |     |     |              |            |
+        |     | No  | Problem                                     | Difficulty |
+        | --- | --- | ------------------------------------------- | ---------- |
+        |     |     | 网格搜索总结                                |            |
+        |     |     |                                             |            |
+        |     | 494 | [目标和](./_posts/2021-02-16-target-sum.md) | 中等       |
+        
 
 3. **Sort**
 
