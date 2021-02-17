@@ -85,6 +85,7 @@ title: 数组总结
 
 # 相关题目
 
-| No  | Problem          | Difficulty | Link                                                                    | Solution                                                              | Comment            |
-| --- | ---------------- | ---------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------ |
-| 56   | 合并区间 | 中等       | [题目](https://leetcode-cn.com/problems/merge-intervals/) | [题解]({% link _posts/2021-02-17-merge-intervals.md %}) | 数组遍历 |
+| No  | Problem    | Difficulty | Link                                                        | Solution                                                  | Comment    |
+| --- | ---------- | ---------- | ----------------------------------------------------------- | --------------------------------------------------------- | ---------- |
+| 56  | 合并区间   | 中等       | [题目](https://leetcode-cn.com/problems/merge-intervals/)   | [题解]({% link _posts/2021-02-17-merge-intervals.md %})   | 数组遍历   |
+| 498 | 对角线遍历 | 中等       | [题目](https://leetcode-cn.com/problems/diagonal-traverse/) | [题解]({% link _posts/2021-02-18-diagonal-traverse.md %}) | 矩阵的遍历 |
