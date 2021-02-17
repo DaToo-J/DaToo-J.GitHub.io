@@ -18,10 +18,11 @@ sidebar:
     |     | No  | Problem                                                                   | Difficulty |
     | --- | --- | ------------------------------------------------------------------------- | ---------- |
     |     |     | [数组总结](./_posts/2021-02-03-list-summary.md)                           |            |
-    |     | 56 | [合并区间](./_posts/2021-02-17-merge-intervals.md)                        | 中等       |
+    |     | 56  | [合并区间](./_posts/2021-02-17-merge-intervals.md)                        | 中等       |
     |     | 394 | [字符串解码](./_posts/2021-02-06-decode-string.md)                        | 中等       |
+    |     | 498 | [对角线遍历](./_posts/2021-02-18-diagonal-traverse.md)                    | 中等       |
     |     | 768 | [最多能完成排序的块 II](./_posts/2021-02-07-max-chunks-to-make-sorted.md) | 困难       |
-
+ 
 2. **Linked List**
 
     |     | No  | Problem                                                            | Difficulty |
