@@ -91,4 +91,5 @@ def dfs(root, target):
    | 200 | 岛屿数量         | 中等       | [题目](https://leetcode-cn.com/problems/number-of-islands/)             | [题解]({% link _posts/2021-02-11-num-of-islands.md %})                | DFS + 栈的解法     |
    | 494  | 目标和 | 中等       | [题目](https://leetcode-cn.com/problems/target-sum/) | [题解]({% link _posts/2021-02-16-target-sum.md %}) | 回溯 + 备忘录 |
    | 739  | 每日温度 | 中等       | [题目](https://leetcode-cn.com/problems/daily-temperatures/) | [题解]({% link _posts/2021-02-12-daily-temperatures.md %}) | 栈的经典题目 |
+   | 841 | 钥匙和房间 | 中等       | [题目](https://leetcode-cn.com/problems/keys-and-rooms/) | [题解]({% link _posts/2021-02-17-keys-and-rooms.md %}) | 没有明显的终止条件的 DFS 递归，也可改写成循环 + 队列的形式 |
 

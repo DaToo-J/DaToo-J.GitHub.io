@@ -137,6 +137,7 @@ dq.index(item)
    | 133  | 克隆图 | 中等       | [题目](https://leetcode-cn.com/problems/clone-graph/) | [题解]({% link _posts/2021-02-13-clone-graph.md %}) | 图遍历的 DFS、BFS 解法 |
    | 200          | 岛屿数量                 | 中等       | [题目](https://leetcode-cn.com/problems/number-of-islands/)                       | [题解]({% link _posts/2021-02-09-number-of-islands.md %})                          |  队列在图的 BFS 的应用  |
    | 279          | 完全平方数                 | 中等       | [题目](https://leetcode-cn.com/problems/perfect-squares/)                       | [题解]({% link _posts/2021-02-09-perfect-squares.md %})                          |  队列在以数字为节点的 BFS 的应用  |
+   | 841 | 钥匙和房间 | 中等       | [题目](https://leetcode-cn.com/problems/keys-and-rooms/) | [题解]({% link _posts/2021-02-17-keys-and-rooms.md %}) | 没有明显的终止条件的 DFS 递归，也可改写成循环 + 队列的形式 |
 
 
 6. 模版：
@@ -193,4 +194,5 @@ dq.index(item)
 
    | No           | Problem                    | Difficulty | Link                                                                                 | Solution                                                                           | Comment |
    | ------------ | -------------------------- | ---------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | --- |
+   | 542  | 01-矩阵 | 中等       | [题目](https://leetcode-cn.com/problems/01-matrix/) | [题解]({% link _posts/2021-02-17-01-matrix.md %}) | 矩阵的层次遍历 |
    | 752  | 打开转盘锁 | 中等       | [题目](https://leetcode-cn.com/problems/open-the-lock/) | [题解]({% link _posts/2021-02-15-open-the-lock.md %}) | 类似于二叉树的层次遍历 |
