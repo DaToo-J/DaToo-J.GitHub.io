@@ -62,6 +62,7 @@ sidebar:
     |     | 108  | [将有序数组转换为二叉搜索树](./_posts/2021-02-08-convert-sorted-array-to-binary-search-tree.md) | 简单       |
     |     | 109  | [有序链表转换二叉搜索树](./_posts/2021-02-09-convert-sorted-list-to-binary-search-tree.md)      | 中等       |
     |     | 110  | [平衡二叉树](./_posts/2021-02-08-balanced-binary-tree.md)                                       | 简单       |
+    |     | 1261 | [在受污染的二叉树中查找元素](./_posts/2021-02-18-find-elements-in-a-contaminated-binary-tree.md)   | 中等       |
     |     | 1382 | [将二叉搜索树变平衡](./_posts/2021-02-09-balance-a-binary-search-tree.md)                       | 中等       |
 
 
@@ -75,12 +76,13 @@ sidebar:
 
 7. **Hashmap**
 
-    |     | No    | Problem                                                                                       | Difficulty |
-    | --- | ----- | --------------------------------------------------------------------------------------------- | ---------- |
-    |     |       | [哈希表总结](./_posts/2021-02-18-hashmap-summary.md)                                          |            |
-    |     | 16.02 | [单词频率](./_posts/2021-02-18-words-frequency-lcci.md)                                       | 中等       |
-    |     | 1261  | [在受污染的二叉树中查找元素](./_posts/2021-02-18-find-elements-in-a-contaminated-binary-tree) | 中等       |
-    |     |       |                                                                                               |            |
+    |     | No    | Problem                                                                                          | Difficulty |
+    | --- | ----- | ------------------------------------------------------------------------------------------------ | ---------- |
+    |     |       | [哈希表总结](./_posts/2021-02-18-hashmap-summary.md)                                             |            |
+    |     | 10.02 | [变位词组](./_posts/2021-02-18-group-anagrams-lcci.md)                                            |   中等         |
+    |     | 16.02 | [单词频率](./_posts/2021-02-18-words-frequency-lcci.md)                                          | 中等       |
+    |     | 954    | [二倍数对数组](./_posts/2021-02-18-array-of-doubled-pairs.md) | 中等       |
+    |     | 1261  | [在受污染的二叉树中查找元素](./_posts/2021-02-18-find-elements-in-a-contaminated-binary-tree.md) | 中等       |
 
 
 ----
@@ -168,11 +170,11 @@ sidebar:
 
     > 岛屿数量：[题目](https://leetcode-cn.com/problems/number-of-islands/)
 
-    | Solution   | Link                                                           |
-    | ---------- | -------------------------------------------------------------- |
-    | BFS + 队列 | [岛屿数量]({% link _posts/2021-02-09-number-of-islands.md %})  |
-    | DFS + 递归 | [岛屿数量]({% link _posts/2021-02-11-numbers-of-islands.md %}) |
-    | DFS + 栈   | [岛屿数量]({% link _posts/2021-02-11-num-of-islands.md %})     |
+    | Solution   | Link                                                  |
+    | ---------- | ----------------------------------------------------- |
+    | BFS + 队列 | [岛屿数量](./_posts/2021-02-09-number-of-islands.md)  |
+    | DFS + 递归 | [岛屿数量](./_posts/2021-02-11-numbers-of-islands.md) |
+    | DFS + 栈   | [岛屿数量](./_posts/2021-02-11-num-of-islands.md)     |
 
 2. **Reversed Linked List**
 
