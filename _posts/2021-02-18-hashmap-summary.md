@@ -11,7 +11,7 @@ tags: 哈希表 总结
 title: 哈希表总结
 ---
 
-# 常见问题
+# 一、常见问题
 
 > 哈希表是一种数据结构，使用哈希函数组织数据，支持 **快速插入和搜索**
 
@@ -174,10 +174,11 @@ temp.most_common() # >>> [('a', 5), ('b', 4), ('c', 3), ('d', 2), ('e', 1)]
 ```
 
 
-# 相关题目
+# 三、相关题目
 
 
 
 | No  | Problem          | Difficulty | Link                                                                    | Solution                                                              | Comment            |
 | --- | ---------------- | ---------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------ |
 | 16.02  | 单词频率 | 中等       | [题目](https://leetcode-cn.com/problems/words-frequency-lcci/) | [题解]({% link _posts/2021-02-18-words-frequency-lcci.md %}) | 哈希表的基本使用 |
+| 1261  | 在受污染的二叉树中查找元素 | 中等       | [题目](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/) | [题解]({% link _posts/2021-02-18-find-elements-in-a-contaminated-binary-tree.md %}) | 哈希表的使用 |
