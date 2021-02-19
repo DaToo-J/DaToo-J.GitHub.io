@@ -26,7 +26,13 @@ title: 前缀树总结
    4. 每一个节点：一个字符子串，即前缀。由「通往该子节点路径上所有字符」和「节点本身的原始字符串」组成的。
    5. 节点的所有后代：都有着 **共同前缀**
 
-4. 应用场景：
+4. 实质：利用「空间换时间」。
+
+   1. 如果想在一堆单词中找某个单词或者某个前缀是否出现，我无需进行完整遍历，而是遍历前缀树即可。
+   2. 本质上，使用前缀树和不使用前缀树，减少的时间就是公共前缀的数目。
+   3. 也就是说，一堆单词没有公共前缀，使用前缀树没有任何意义。如果题目中公共前缀比较多，可以考虑用前缀树来优化。
+
+5. 应用场景：
    1. 自动补全
    2. 拼写检查
 
@@ -106,4 +112,5 @@ title: 前缀树总结
 
 | No  | Problem | Difficulty | Link     | Solution                   | Comment |
 | --- | ------- | ---------- | -------- | -------------------------- | ------- |
-|   208  |    实现 Trie     | 中等       | [题目](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [题解]({% link _posts/2021-02-19-implement-trie-prefix-tree.md %}) |         |
+|   208  |    实现 Trie     | 中等       | [题目](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [题解]({% link _posts/2021-02-19-implement-trie-prefix-tree.md %}) |   初识前缀树      |
+|   648  |    单词替换    | 中等       | [题目](https://leetcode-cn.com/problems/replace-words/) | [题解]({% link _posts/2021-02-19-replace-words.md %}) |   初识前缀树，换汤不换药      |
