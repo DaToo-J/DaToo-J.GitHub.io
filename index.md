@@ -56,22 +56,23 @@ sidebar:
 
 5. **Tree**
 
-    |     | No   | Problem                                                                                         | Difficulty |
-    | --- | ---- | ----------------------------------------------------------------------------------------------- | ---------- |
-    |     |      | [树总结](./_posts/2021-02-04-tree-summary.md)                                                   |            |
-    |     | 108  | [将有序数组转换为二叉搜索树](./_posts/2021-02-08-convert-sorted-array-to-binary-search-tree.md) | 简单       |
-    |     | 109  | [有序链表转换二叉搜索树](./_posts/2021-02-09-convert-sorted-list-to-binary-search-tree.md)      | 中等       |
-    |     | 110  | [平衡二叉树](./_posts/2021-02-08-balanced-binary-tree.md)                                       | 简单       |
-    |     | 1261 | [在受污染的二叉树中查找元素](./_posts/2021-02-18-find-elements-in-a-contaminated-binary-tree.md)   | 中等       |
-    |     | 1382 | [将二叉搜索树变平衡](./_posts/2021-02-09-balance-a-binary-search-tree.md)                       | 中等       |
+    |     | No   | Problem                                                                                          | Difficulty |
+    | --- | ---- | ------------------------------------------------------------------------------------------------ | ---------- |
+    |     |      | [树总结](./_posts/2021-02-04-tree-summary.md)                                                    |            |
+    |     | 108  | [将有序数组转换为二叉搜索树](./_posts/2021-02-08-convert-sorted-array-to-binary-search-tree.md)  | 简单       |
+    |     | 109  | [有序链表转换二叉搜索树](./_posts/2021-02-09-convert-sorted-list-to-binary-search-tree.md)       | 中等       |
+    |     | 110  | [平衡二叉树](./_posts/2021-02-08-balanced-binary-tree.md)                                        | 简单       |
+    |     | 1261 | [在受污染的二叉树中查找元素](./_posts/2021-02-18-find-elements-in-a-contaminated-binary-tree.md) | 中等       |
+    |     | 1382 | [将二叉搜索树变平衡](./_posts/2021-02-09-balance-a-binary-search-tree.md)                        | 中等       |
 
 
 6. **Trie**
 
-    |     | No  | Problem    | Difficulty |
-    | --- | --- | ---------- | ---------- |
-    |     |     | 前缀树总结 |            |
-    |     |     |            |            |
+    |     | No  | Problem                                                        | Difficulty |
+    | --- | --- | -------------------------------------------------------------- | ---------- |
+    |     |     | [前缀树总结](./_posts/2021-02-18-trie-summary.md)              |            |
+    |     | 208 | [实现 Trie](./_posts/2021-02-19-implement-trie-prefix-tree.md) | 中等       |
+    |     |     |                                                                |            |
 
 
 7. **Hashmap**
@@ -79,9 +80,9 @@ sidebar:
     |     | No    | Problem                                                                                          | Difficulty |
     | --- | ----- | ------------------------------------------------------------------------------------------------ | ---------- |
     |     |       | [哈希表总结](./_posts/2021-02-18-hashmap-summary.md)                                             |            |
-    |     | 10.02 | [变位词组](./_posts/2021-02-18-group-anagrams-lcci.md)                                            |   中等         |
+    |     | 10.02 | [变位词组](./_posts/2021-02-18-group-anagrams-lcci.md)                                           | 中等       |
     |     | 16.02 | [单词频率](./_posts/2021-02-18-words-frequency-lcci.md)                                          | 中等       |
-    |     | 954    | [二倍数对数组](./_posts/2021-02-18-array-of-doubled-pairs.md) | 中等       |
+    |     | 954   | [二倍数对数组](./_posts/2021-02-18-array-of-doubled-pairs.md)                                    | 中等       |
     |     | 1261  | [在受污染的二叉树中查找元素](./_posts/2021-02-18-find-elements-in-a-contaminated-binary-tree.md) | 中等       |
 
 
@@ -105,9 +106,9 @@ sidebar:
         |     | No  | Problem                                             | Difficulty |
         | --- | --- | --------------------------------------------------- | ---------- |
         |     |     | 网格搜索总结                                        |            |
+        |     | 542 | [01-矩阵](./_posts/2021-02-17-01-matrix.md)         | 中等       |
         |     | 752 | [打开转盘锁](./_posts/2021-02-15-open-the-lock.md)  | 中等       |
         |     | 841 | [钥匙和房间](./_posts/2021-02-17-keys-and-rooms.md) | 中等       |
-        |     | 542 | [01-矩阵](./_posts/2021-02-17-01-matrix.md)         | 中等       |
 
    2. DFS
 
