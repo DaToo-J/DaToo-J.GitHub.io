@@ -131,7 +131,7 @@ sidebar:
 
     |     | No  | Problem      | Difficulty |
     | --- | --- | ------------ | ---------- |
-    |     |     | 二分搜索总结 |            |
+    |     |     | [二分搜索总结](./_posts/2021-02-20-binary-search-summary.md) |            |
     |     |     |              |            |
 
 5. **Two Pointers**
