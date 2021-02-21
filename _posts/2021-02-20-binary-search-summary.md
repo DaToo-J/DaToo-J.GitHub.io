@@ -27,7 +27,7 @@ title: 二分搜索总结
 
 ## 二、模版
 
-## 2.1 模版 I
+### 2.1 模版 I
 
 > 二分查找的最基础和最基本的形式。
 
@@ -61,7 +61,7 @@ def binarySearch(nums, target):
     return -1
 ```
 
-## 2.2 模版 II
+### 2.2 模版 II
 
 > 二分查找的高级模板。
 
@@ -101,7 +101,7 @@ def binarySearch(nums, target):
     return -1
 ```
 
-## 2.3 模版 III
+### 2.3 模版 III
 
 > 也比第一个模版高级一点儿
 
@@ -139,7 +139,7 @@ def binarySearch(nums, target):
     return -1
 ```
 
-## 2.4 模版对比
+### 2.4 模版对比
 
 ![binary-search]({{ "./assets/images/binary-search.jpg" | absolute_url }})
  
