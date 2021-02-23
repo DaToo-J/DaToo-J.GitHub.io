@@ -150,3 +150,4 @@ def binarySearch(nums, target):
    | No  | Problem          | Difficulty | Link                                                                    | Solution                                                              | Comment            |
    | --- | ---------------- | ---------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------ |
    | 69  | x 的平方根 | 简单       | [题目](https://leetcode-cn.com/problems/sqrtx/) | [题解]({% link _posts/2021-02-23-sqrt-x.md %}) | 二分搜索的入门题目，使用「模版 I」即可 |
+   | 33  | 搜索旋转排序数组 | 中等       | [题目](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [题解]({% link _posts/2021-02-23-search-in-rotated-sorted-array.md %}) | 比「x 的平方根」更进阶一点，二分搜索的另一种使用场景。同样使用「模版 I」即可 |
