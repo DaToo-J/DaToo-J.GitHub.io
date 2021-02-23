@@ -49,6 +49,10 @@ title: 33 搜索旋转排序数组
 
 ## 思路 
 
+> 欢迎访问我在 [LeetCode 上的题解](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/3-zhang-tu-dai-ni-tong-guo-ci-ti-by-dato-mw50/)
+> 
+> 本题采用 [二分搜索总结]({% link _posts/2021-02-20-binary-search-summary.md %}) 里的「模版 I」实现         
+
 1. 根据「旋转点」的位置，可分为两种情况：靠左或靠右。 不管怎么旋转，旋转后的数组都有以下特点：
    1. `蓝色数组的最小值 > 黄色数组的最大值`，即 `所有蓝色数组的元素 > 所有黄色数组的元素`；
    2. 蓝色数组长度和黄色数组长度孰长孰短，是动态变化的，取决于指针的移动。
