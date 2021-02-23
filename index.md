@@ -72,8 +72,8 @@ sidebar:
     | --- | --- | -------------------------------------------------------------- | ---------- |
     |     |     | [前缀树总结](./_posts/2021-02-18-trie-summary.md)              |            |
     |     | 208 | [实现 Trie](./_posts/2021-02-19-implement-trie-prefix-tree.md) | 中等       |
-    |     | 648 | [单词替换](./_posts/2021-02-19-replace-words.md) | 中等       |
-    |     |     |                                                               |            |
+    |     | 648 | [单词替换](./_posts/2021-02-19-replace-words.md)               | 中等       |
+    |     |     |                                                                |            |
 
 
 7. **Hashmap**
@@ -129,10 +129,10 @@ sidebar:
 
 4. **Binary Search**
 
-    |     | No  | Problem      | Difficulty |
-    | --- | --- | ------------ | ---------- |
+    |     | No  | Problem                                                      | Difficulty |
+    | --- | --- | ------------------------------------------------------------ | ---------- |
     |     |     | [二分搜索总结](./_posts/2021-02-20-binary-search-summary.md) |            |
-    |     |     |              |            |
+    |     | 69  | [x 的平方根](./_posts/2021-02-23-sqrt-x.md)                  | 简单       |
 
 5. **Two Pointers**
 

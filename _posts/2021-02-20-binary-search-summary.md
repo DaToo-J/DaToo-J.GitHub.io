@@ -143,3 +143,10 @@ def binarySearch(nums, target):
 
 ![binary-search]({{ "./assets/images/binary-search.jpg" | absolute_url }})
  
+## 三、相关题目
+
+
+
+   | No  | Problem          | Difficulty | Link                                                                    | Solution                                                              | Comment            |
+   | --- | ---------------- | ---------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------ |
+   | 69  | x 的平方根 | 简单       | [题目](https://leetcode-cn.com/problems/sqrtx/) | [题解]({% link _posts/2021-02-23-sqrt-x.md %}) | 二分搜索的入门题目，使用「模版 I」即可 |
