@@ -20,7 +20,7 @@ title                    : "Datoo's Paradise 🎠"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Datoo"
-description              : "Enjoy Life and Have Fun"
+description              : "Here is Datoo's personal website, which containing some interesting things. For now, it mainly contains my Leetcode notes and solutions with pictures."
 url                      : https://datoo-j.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Datoo"
   avatar           : /assets/images/photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a sleepy person.🥱"
+  bio              : "Work for Live or Live for work, is a question."
   location         : "Somewhere Universe🥷"
   email            : "oatmilk@yeah.net"
   links:
