@@ -116,7 +116,7 @@ class Solution:
 
 ## 思路 II
 
-> 本解法与上一个思路不同，采用 [二分搜索总结]({% link _posts/2021-02-20-binary-search-summary.md %}) 里的「模版 II」实现         
+> 本解法与上一个思路不同，采用 [二分搜索总结]({% link _posts/2021-02-20-binary-search-summary.md %}) 里的「模版 I」实现         
 > 
 > 参考「剑指 Offer 53 - I. 在排序数组中查找数字 I」
 
