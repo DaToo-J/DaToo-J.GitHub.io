@@ -20,7 +20,7 @@ title                    : "Datoo's Paradise 🎠"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Datoo"
-description              : "Here is Datoo's personal website, which containing some interesting things. For now, it mainly contains my Leetcode notes and solutions with pictures."
+description              : "Here is Datoo's personal data structure and algorithm website, which mainly containing my Leetcode notes and solutions with pictures. I'm glad if you interact with me about this website's content."
 url                      : https://datoo-j.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -88,7 +88,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : true # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : 263051257
     anonymize_ip         : true # true, false (default)
