@@ -129,13 +129,14 @@ sidebar:
 
 4. **Binary Search**
 
-    |     | No  | Problem                                                                   | Difficulty |
-    | --- | --- | ------------------------------------------------------------------------- | ---------- |
-    |     |     | [二分搜索总结](./_posts/2021-02-20-binary-search-summary.md)              |            |
-    |     | 33  | [搜索旋转排序数组](./_posts/2021-02-23-search-in-rotated-sorted-array.md) | 中等       |
-    |     | 69  | [x 的平方根](./_posts/2021-02-23-sqrt-x.md)                               | 简单       |
-    |     | 162 | [寻找峰值](./_posts/2021-02-24-find-peak-element.md)                      | 中等       |
-    |     | 278 | [第一个错误的版本](./_posts/2021-02-24-first-bad-version.md)              | 简单       |
+    |     | No  | Problem                                                                                                                      | Difficulty |
+    | --- | --- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- |
+    |     |     | [二分搜索总结](./_posts/2021-02-20-binary-search-summary.md)                                                                 |            |
+    |     | 33  | [搜索旋转排序数组](./_posts/2021-02-23-search-in-rotated-sorted-array.md)                                                    | 中等       |
+    |     | 34  | [在排序数组中查找元素的第一个和最后一个位置](./_posts/2021-02-25-find-first-and-last-position-of-element-in-sorted-array.md) | 中等       |
+    |     | 69  | [x 的平方根](./_posts/2021-02-23-sqrt-x.md)                                                                                  | 简单       |
+    |     | 162 | [寻找峰值](./_posts/2021-02-24-find-peak-element.md)                                                                         | 中等       |
+    |     | 278 | [第一个错误的版本](./_posts/2021-02-24-first-bad-version.md)                                                                 | 简单       |
 
 5. **Two Pointers**
 
