@@ -137,6 +137,7 @@ sidebar:
     |     | 69  | [x 的平方根](./_posts/2021-02-23-sqrt-x.md)                                                                                  | 简单       |
     |     | 162 | [寻找峰值](./_posts/2021-02-24-find-peak-element.md)                                                                         | 中等       |
     |     | 278 | [第一个错误的版本](./_posts/2021-02-24-first-bad-version.md)                                                                 | 简单       |
+    |     | 658  | [找到 K 个最接近的元素](./_posts/2021-02-25-find-k-closest-elements.md)                                                                 | 中等       |
 
 5. **Two Pointers**
 
