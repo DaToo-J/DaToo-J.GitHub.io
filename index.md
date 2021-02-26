@@ -1,7 +1,7 @@
 ---
 layout: archive
 author_profile: true
-title: Table of Contents
+title: Datoo's Data Structure and Algorithm Notes
 classes: wide
 sidebar:
   nav: "main"
