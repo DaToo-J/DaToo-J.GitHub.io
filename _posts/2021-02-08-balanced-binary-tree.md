@@ -7,7 +7,7 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: 基础 树 平衡二叉树
+tags:  树 平衡二叉树
 title: 110 平衡二叉树
 ---
 

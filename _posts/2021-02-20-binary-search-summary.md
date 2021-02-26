@@ -7,7 +7,7 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: 二分搜索 二分查找 二分法 总结
+tags: 二分搜索 总结
 title: 二分搜索总结
 ---
 

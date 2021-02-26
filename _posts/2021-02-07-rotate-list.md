@@ -7,7 +7,7 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: 基础 链表
+tags:  链表
 title: 61 旋转链表
 ---
 

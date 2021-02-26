@@ -7,9 +7,9 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: 基础 树 总结
-# categories: Basic
+tags:  树 总结
 title: 树总结
+excerpt: 二叉树的基本概念、分类、遍历方式、常用解题模版，以及相关题目的汇总。
 ---
 
 # 树的基本信息
@@ -18,7 +18,7 @@ title: 树总结
 
 - 树的深度：从上到下，根节点到节点的路径
 
-- ![decode-string]({{ "./assets/images/tree-basic.png" | absolute_url }}){:height="50%" width="50%"}
+- ![tree-basic]({{ "./assets/images/tree-basic.png" | absolute_url }}){:height="50%" width="50%"}
 
 # 二叉树分类
 
@@ -26,7 +26,7 @@ title: 树总结
 
 - 高度为 $h$ ，由 $2^h - 1$ 个节点构成的二叉树称为满二叉树。
 
-- ![decode-string]({{ "./assets/images/full-binary-tree.png" | absolute_url }}){:height="50%" width="50%"}
+- ![full-binary-tree]({{ "./assets/images/full-binary-tree.png" | absolute_url }}){:height="50%" width="50%"}
 
 ## 完全二叉树
 
@@ -36,7 +36,7 @@ title: 树总结
 
 - 若最底层为第 $h$ 层，则该层包含 $[1, 2(h-1)]$ 个节点。
 
-- ![decode-string]({{ "./assets/images/complete-binary-tree.png" | absolute_url }}){:height="50%" width="50%"}
+- ![complete-binary-tree]({{ "./assets/images/complete-binary-tree.png" | absolute_url }}){:height="50%" width="50%"}
 
 
 ## 堆

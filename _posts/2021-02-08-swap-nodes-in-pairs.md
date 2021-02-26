@@ -7,7 +7,7 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: 基础 链表
+tags:  链表
 title: 24 两两交换链表中的节点
 ---
 
@@ -41,7 +41,7 @@ title: 24 两两交换链表中的节点
 ## 思路 I
 
 
-![decode-string]({{ "./assets/images/swap-nodes-1.jpg" | absolute_url }})
+![swap-nodes-1]({{ "./assets/images/swap-nodes-1.jpg" | absolute_url }})
 
 ## 代码 I
 
@@ -88,7 +88,7 @@ class Solution:
 
 ## 思路 II
 
-![decode-string]({{ "./assets/images/swap-nodes-2.jpg" | absolute_url }})
+![swap-nodes-2]({{ "./assets/images/swap-nodes-2.jpg" | absolute_url }})
 
 
 ## 代码 II

@@ -7,8 +7,9 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: 基础 数组 总结
+tags: 数组 总结
 title: 数组总结
+excerpt: 数据结构中，数组的基本概念、常用操作以及相关题目汇总。
 ---
 
 
@@ -85,7 +86,8 @@ title: 数组总结
 
 # 相关题目
 
-| No  | Problem    | Difficulty | Link                                                        | Solution                                                  | Comment    |
-| --- | ---------- | ---------- | ----------------------------------------------------------- | --------------------------------------------------------- | ---------- |
-| 56  | 合并区间   | 中等       | [题目](https://leetcode-cn.com/problems/merge-intervals/)   | [题解]({% link _posts/2021-02-17-merge-intervals.md %})   | 数组遍历   |
-| 498 | 对角线遍历 | 中等       | [题目](https://leetcode-cn.com/problems/diagonal-traverse/) | [题解]({% link _posts/2021-02-18-diagonal-traverse.md %}) | 矩阵的遍历 |
+| No  | Problem    | Difficulty | Link                                                        | Solution                                                  | Comment        |
+| --- | ---------- | ---------- | ----------------------------------------------------------- | --------------------------------------------------------- | -------------- |
+| 56  | 合并区间   | 中等       | [题目](https://leetcode-cn.com/problems/merge-intervals/)   | [题解]({% link _posts/2021-02-17-merge-intervals.md %})   | 数组遍历       |
+| 394 | 字符串解码 | 中等       | [题目](https://leetcode-cn.com/problems/decode-string/)     | [题解]({% link _posts/2021-02-06-decode-string.md %})     | 数组和栈的使用 |
+| 498 | 对角线遍历 | 中等       | [题目](https://leetcode-cn.com/problems/diagonal-traverse/) | [题解]({% link _posts/2021-02-18-diagonal-traverse.md %}) | 矩阵的遍历     |

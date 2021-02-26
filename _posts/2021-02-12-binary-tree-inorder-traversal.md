@@ -8,15 +8,13 @@ sidebar:
   nav: "main"
 
 tags: 二叉树 遍历 中序遍历 栈
-title: 94. 二叉树的中序遍历
+title: 94 二叉树的中序遍历
+excerpt: 二叉树的必须掌握的遍历方式
 ---
 
 ## 题目
 
 > 题目链接：[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
-
-
-
 
 ## 思路 
 
@@ -40,9 +38,7 @@ class Solution:
             curr = stack.pop()
             res.append(curr.val)
             curr = curr.right
-
         return res
-
 ```
 
 

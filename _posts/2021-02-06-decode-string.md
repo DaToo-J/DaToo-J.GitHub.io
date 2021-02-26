@@ -7,8 +7,9 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: 基础 数组 栈
+tags:  数组 栈
 title: 394 字符串解码
+excerpt: 栈的经典题目，可用于对栈加深理解。
 ---
 
 ## 题目

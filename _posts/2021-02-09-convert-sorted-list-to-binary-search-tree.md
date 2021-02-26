@@ -7,7 +7,7 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: 基础 链表 二叉搜索树
+tags:  链表 二叉搜索树
 title: 109 有序链表转换二叉搜索树
 ---
 

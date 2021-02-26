@@ -7,9 +7,9 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: 基础 总结 链表
-# categories: Basic
+tags: 总结 链表
 title: 链表总结
+excerpt: 链表题目的解题思路汇总，不断更新中 ...
 ---
 
 # 总结

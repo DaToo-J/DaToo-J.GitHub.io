@@ -7,7 +7,7 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: 基础 树 二叉搜索树 二分
+tags:  树 二叉搜索树 二分搜索
 title: 108 将有序数组转换为二叉搜索树
 ---
 

@@ -7,7 +7,7 @@ toc_icon: "list"
 sidebar:
   nav: "main"
 
-tags: 基础 数组 栈
+tags:  数组 栈
 title: 768 最多能完成排序的块 II
 ---
 
