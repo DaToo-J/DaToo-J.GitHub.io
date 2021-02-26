@@ -13,6 +13,8 @@ main:
       - title: "Series"
         url: /#series
         description: "系列题"
+  - title: "Archive"
+    url: "/tags/"
   - title: "Contact With Me"
     url: /#footer
     description: "联系方式"
