@@ -6,6 +6,7 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags:  树 平衡二叉树
 title: 110 平衡二叉树

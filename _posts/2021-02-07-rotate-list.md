@@ -6,9 +6,11 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags:  链表
 title: 61 旋转链表
+excerpt: 链表的经典题目，考察对链表指针的掌握。
 ---
 
 ## 题目

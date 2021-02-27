@@ -6,6 +6,7 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags:  二叉搜索树 二叉平衡树
 title: 1382 将二叉搜索树变平衡

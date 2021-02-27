@@ -6,6 +6,7 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags: 二分搜索
 title: 278 第一个错误的版本

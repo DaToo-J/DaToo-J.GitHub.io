@@ -6,6 +6,7 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags: 前缀树 总结
 title: 前缀树总结

@@ -6,6 +6,7 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags: 二叉树 哈希表
 title: 1261 在受污染的二叉树中查找元素

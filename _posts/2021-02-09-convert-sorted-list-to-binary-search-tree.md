@@ -6,6 +6,7 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags:  链表 二叉搜索树
 title: 109 有序链表转换二叉搜索树

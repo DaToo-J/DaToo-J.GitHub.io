@@ -6,9 +6,11 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags:  数组 栈
 title: 768 最多能完成排序的块 II
+excerpt: 这个问题和“最多能完成排序的块”相似，但给定数组中的元素可以重复，输入数组最大长度为2000，其中的元素最大为10**8。
 ---
 
 ## 题目

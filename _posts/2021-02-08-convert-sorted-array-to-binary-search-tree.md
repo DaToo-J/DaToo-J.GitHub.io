@@ -6,6 +6,7 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags:  树 二叉搜索树 二分搜索
 title: 108 将有序数组转换为二叉搜索树

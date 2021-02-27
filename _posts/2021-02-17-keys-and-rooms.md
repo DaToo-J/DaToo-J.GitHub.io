@@ -6,6 +6,7 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags: DFS 深度优先 图 队列 BFS 广度优先
 title: 841 钥匙和房间

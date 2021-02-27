@@ -6,6 +6,7 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags: 二叉树 遍历 中序遍历 栈
 title: 94 二叉树的中序遍历
