@@ -10,6 +10,7 @@ comments: true
 
 tags: 栈
 title: 150 逆波兰表达式求值
+excerpt: 栈在逆波兰表达式的应用，也是栈的经典应用。
 ---
 
 ## 题目

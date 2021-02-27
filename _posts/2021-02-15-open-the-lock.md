@@ -10,6 +10,7 @@ comments: true
 
 tags: BFS 队列 广度优先
 title: 752 打开转盘锁
+excerpt: 关于搜索，并非只局限于二维数组的搜索，也可以是字符串的搜索。
 ---
 
 ## 题目

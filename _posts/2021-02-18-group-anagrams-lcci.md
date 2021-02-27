@@ -10,6 +10,7 @@ comments: true
 
 tags: 哈希表
 title: 面试题 10.02 变位词组
+excerpt: 找到变位词的规律即可利用哈希表来解开
 ---
 
 ## 题目

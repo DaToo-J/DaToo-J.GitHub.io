@@ -10,6 +10,7 @@ comments: true
 
 tags: BFS 队列 广度优先
 title: 200 岛屿数量
+excerpt: 经典题目——图的广度优先搜索
 ---
 
 ## 题目

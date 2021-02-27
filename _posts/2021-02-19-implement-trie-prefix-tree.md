@@ -10,6 +10,7 @@ comments: true
 
 tags: 前缀树
 title: 208 实现 Trie (前缀树)
+excerpt: 前缀树的实现，需记住里面的模版
 ---
 
 ## 题目

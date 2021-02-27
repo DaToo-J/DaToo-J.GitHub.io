@@ -10,6 +10,7 @@ comments: true
 
 tags: 哈希表
 title: 面试题 16.02. 单词频率
+excerpt: 哈希表在频率统计的简单而经典的应用
 ---
 
 ## 题目

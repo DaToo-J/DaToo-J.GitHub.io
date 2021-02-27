@@ -10,6 +10,7 @@ comments: true
 
 tags: BFS 队列 动态规划
 title: 279 完全平方数
+excerpt: 「BFS + 队列」和「动态规划」在搜索题目中的来回转换。
 ---
 
 ## 题目

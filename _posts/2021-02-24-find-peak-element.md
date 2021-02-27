@@ -10,6 +10,7 @@ comments: true
 
 tags: 二分搜索
 title: 162 寻找峰值
+excerpt: 利用二分搜索的性质针对特殊的数组进行修改来解题
 ---
 
 ## 题目

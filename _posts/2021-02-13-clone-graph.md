@@ -10,6 +10,7 @@ comments: true
 
 tags: DFS BFS 递归 队列
 title: 133 克隆图
+excerpt: 考察对图的搜索的掌握，本题解包含 DFS 和 BFS 的解法。
 ---
 
 ## 题目

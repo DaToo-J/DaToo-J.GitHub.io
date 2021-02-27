@@ -10,6 +10,7 @@ comments: true
 
 tags: DFS 深度优先
 title: 494 目标和
+excerpt: DFS 的常见题目
 ---
 
 ## 题目

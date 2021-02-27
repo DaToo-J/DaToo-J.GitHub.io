@@ -10,6 +10,7 @@ comments: true
 
 tags: 数组
 title: 56 合并区间
+excerpt: 观察合并区间的规律即可解出的题目，可以练练手。
 ---
 
 ## 题目

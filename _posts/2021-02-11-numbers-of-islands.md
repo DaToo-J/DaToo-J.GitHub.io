@@ -10,6 +10,7 @@ comments: true
 
 tags: DFS 递归 深度优先
 title: 200 岛屿数量
+excerpt: 经典题目——图的深度优先搜索的递归解法
 ---
 
 ## 题目

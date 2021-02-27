@@ -10,6 +10,7 @@ comments: true
 
 tags: 数组
 title: 498 对角线遍历
+excerpt: 三张图带你理解并解出这道题
 ---
 
 ## 题目
@@ -39,7 +40,7 @@ title: 498 对角线遍历
    1. 起始节点都是第一行的节点
    2. 每条对角线都是从右上角往左下角移动
 
-      ![queue]({{ "./assets/images/diagonal-traverse-1.png" | absolute_url }}){:height="50%" width="50%"}
+      ![diagonal-traverse-1]({{ "./assets/images/diagonal-traverse-1.png" | absolute_url }}){:height="50%" width="50%"}
 
     ```python
     # 伪代码：
@@ -63,7 +64,7 @@ title: 498 对角线遍历
    1. 起始节点都是最后一列的节点
    2. 每条对角线都是从右上角往左下角移动
 
-      ![queue]({{ "./assets/images/diagonal-traverse-2.png" | absolute_url }}){:height="50%" width="50%"}
+      ![diagonal-traverse-2]({{ "./assets/images/diagonal-traverse-2.png" | absolute_url }}){:height="50%" width="50%"}
 
     ```python
     # 伪代码：
@@ -82,7 +83,7 @@ title: 498 对角线遍历
    ```
 3. 此时，`res` 里面的元素应该是：`[[1], [2, 4], [3, 5, 7], [6, 8, 4], [9, 5, 7], [6, 8], [9]]`，实际上的结果应该是：`[1,2,4,7,5,3,6,8,4,7,5,9,6,8,9]`。因此，需要将 `res` 中索引为偶数的子数组翻转。并且合并整个 `res` 数组。
 
-   ![queue]({{ "./assets/images/diagonal-traverse-3.png" | absolute_url }}){:height="50%" width="50%"}
+   ![diagonal-traverse-3]({{ "./assets/images/diagonal-traverse-3.png" | absolute_url }}){:height="50%" width="50%"}
 
 ## 代码 
 

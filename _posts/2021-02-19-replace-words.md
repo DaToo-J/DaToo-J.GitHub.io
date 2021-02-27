@@ -10,6 +10,7 @@ comments: true
 
 tags: 前缀树
 title: 648 单词替换
+excerpt: 相比于实现前缀树，本题是前缀树的进阶应用
 ---
 
 ## 题目

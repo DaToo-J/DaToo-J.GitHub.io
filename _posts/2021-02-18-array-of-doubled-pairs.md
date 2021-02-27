@@ -10,6 +10,7 @@ comments: true
 
 tags: 哈希表
 title: 954 二倍数对数组
+excerpt: 数学在算法中的简单应用
 ---
 
 ## 题目

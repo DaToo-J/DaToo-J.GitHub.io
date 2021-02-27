@@ -10,6 +10,7 @@ comments: true
 
 tags:  链表
 title: 24 两两交换链表中的节点
+excerpt: 链表中经典的交换节点系列。
 ---
 
 ## 题目

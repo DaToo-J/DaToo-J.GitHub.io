@@ -10,6 +10,7 @@ comments: true
 
 tags: 二分搜索 总结
 title: 二分搜索总结
+excerpt: 二分搜索的基本概念、使用场景、模版使用、以及相关题目的总结
 ---
 
 > 参考 leetbook

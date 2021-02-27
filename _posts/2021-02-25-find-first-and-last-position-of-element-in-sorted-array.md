@@ -10,6 +10,7 @@ comments: true
 
 tags: 二分搜索
 title: 34 在排序数组中查找元素的第一个和最后一个位置
+excerpt: 二分搜索求边界的问题
 ---
 
 ## 题目

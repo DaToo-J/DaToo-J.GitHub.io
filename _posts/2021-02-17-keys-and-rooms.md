@@ -10,6 +10,7 @@ comments: true
 
 tags: DFS 深度优先 图 队列 BFS 广度优先
 title: 841 钥匙和房间
+excerpt: 一道有多个解法的搜索题目
 ---
 
 ## 题目

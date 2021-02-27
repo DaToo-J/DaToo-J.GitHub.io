@@ -10,6 +10,7 @@ comments: true
 
 tags: 二叉树 哈希表
 title: 1261 在受污染的二叉树中查找元素
+excerpt: 二叉树和位运算的结合，是一道不错的题目
 ---
 
 ## 题目
@@ -50,7 +51,7 @@ title: 1261 在受污染的二叉树中查找元素
    2. 参考哈夫曼树的思想：从根节点到各元素经过的路径（向左为 `0`，向右为 `1`），拼成的一个二进制数就是该元素除了最高位的数，最高位为 `1`。
    3. 例子：节点 `11` 从根节点到该节点的路径：`左 -> 右 -> 右`，转成 `0 -> 1 -> 1`，加上最高位 `1` 得 `1011`，即为 `11` 的二进制
 
-        ![hashmap]({{ "./assets/images/find-elements-in-a-contaminated-binary-tree.png" | absolute_url }})
+        ![find-elements-in-a-contaminated-binary-tree]({{ "./assets/images/find-elements-in-a-contaminated-binary-tree.png" | absolute_url }})
 
 3. 代码实现的步骤：
    1. `target`：`+1`

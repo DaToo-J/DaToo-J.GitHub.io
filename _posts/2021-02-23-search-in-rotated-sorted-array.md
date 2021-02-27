@@ -10,6 +10,7 @@ comments: true
 
 tags: 二分搜索
 title: 33 搜索旋转排序数组
+excerpt: 这道题很经典，不知道说什么好了 🤪
 ---
 
 ## 题目

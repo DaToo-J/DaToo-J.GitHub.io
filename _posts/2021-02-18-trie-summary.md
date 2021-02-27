@@ -10,6 +10,7 @@ comments: true
 
 tags: 前缀树 总结
 title: 前缀树总结
+excerpt: 前缀树的基本概念、模版、相关题目的总结
 ---
 
 ## 一、概述

@@ -10,6 +10,7 @@ comments: true
 
 tags: 栈 总结
 title: 栈总结
+excerpt: 栈的基本概念、模版总结、相关题目及题解的罗列。
 ---
 
 

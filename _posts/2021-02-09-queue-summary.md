@@ -10,6 +10,7 @@ comments: true
 
 tags: 队列 总结
 title: 队列总结
+excerpt: 对队列的基本概念、python 里的库函数、队列的应用以及相关题目的总结。
 ---
 
 

@@ -10,6 +10,7 @@ comments: true
 
 tags: 二分搜索
 title: 278 第一个错误的版本
+excerpt: 二分搜索的简单使用
 ---
 
 ## 题目

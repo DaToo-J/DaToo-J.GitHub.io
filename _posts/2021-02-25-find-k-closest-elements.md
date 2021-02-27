@@ -10,6 +10,7 @@ comments: true
 
 tags: 二分搜索
 title: 658 找到 K 个最接近的元素
+excerpt: 需针对题目对二分搜索和双指针进行结合使用
 ---
 
 ## 题目
