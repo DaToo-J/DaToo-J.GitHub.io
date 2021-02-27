@@ -85,6 +85,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.instagram.com/hellodatoo/"
+    - "https://github.com/DaToo-J"
 
 # Analytics
 analytics:
@@ -99,7 +101,7 @@ author:
   name             : "Datoo"
   avatar           : /assets/images/photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Work for Live or Live for work, is a question."
-  location         : "Somewhere Universe🥷"
+  location         : "Somewhere Universe ..."
   email            : "oatmilk@yeah.net"
   links:
     - label: "Email"
@@ -116,7 +118,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/DaToo-J"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/hellodatoo/"
