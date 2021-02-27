@@ -6,6 +6,7 @@ toc_label: "本文内容"
 toc_icon: "list"
 sidebar:
   nav: "main"
+comments: true
 
 tags: 总结 链表
 title: 链表总结
