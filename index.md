@@ -5,6 +5,8 @@ title: Datoo's Data Structure and Algorithm Notes
 classes: wide
 sidebar:
   nav: "main"
+
+excerpt: This website is mainly for storing my notes when solving data structure and algorithm problems in LeetCode.
 ---
 
 > This website is mainly for storing my notes when solving data structure and algorithm problems in LeetCode. If you have some questions, please feel free to ask me or give some advise to me. :D
