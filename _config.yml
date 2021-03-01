@@ -291,5 +291,5 @@ defaults:
       read_time: true
       comments: # true
       share: false
-      related: false
+      related: true
       show_date: false
