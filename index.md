@@ -143,10 +143,11 @@ excerpt: This website is mainly for storing my notes when solving data structure
 
 5. **Two Pointers**
 
-    |     | No  | Problem    | Difficulty |
-    | --- | --- | ---------- | ---------- |
-    |     |     | 双指针总结 |            |
-    |     |     |            |            |
+    |     | No  | Problem                                                            | Difficulty |
+    | --- | --- | ------------------------------------------------------------------ | ---------- |
+    |     |     | [双指针总结](./posts/../_posts/2021-03-01-two-pointers-summary.md) |            |
+    |     |  344   | [反转字符串](./_posts/2021-03-03-reverse-string.md)                | 简单       |
+    |     |     |                                                                    |            |
 
 6. **Dynamic Programming**
 
@@ -154,7 +155,7 @@ excerpt: This website is mainly for storing my notes when solving data structure
     | --- | --- | ------------------------------------------------------------------ | ---------- |
     |     |     | [动态规划总结](./_posts/2021-03-03-dynamic-programming-summary.md) |            |
     |     | 279 | [完全平方数](./_posts/2021-02-09-perfect-squares.md)               | 中等       |
-    |     | 338 | [比特位计数](./_posts/2021-03-03-counting-bits.md)            | 中等       |
+    |     | 338 | [比特位计数](./_posts/2021-03-03-counting-bits.md)                 | 中等       |
     |     |     |                                                                    |            |
 
 7. **Union Find**
