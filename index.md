@@ -139,7 +139,7 @@ excerpt: This website is mainly for storing my notes when solving data structure
     |     | 69  | [x 的平方根](./_posts/2021-02-23-sqrt-x.md)                                                                                  | 简单       |
     |     | 162 | [寻找峰值](./_posts/2021-02-24-find-peak-element.md)                                                                         | 中等       |
     |     | 278 | [第一个错误的版本](./_posts/2021-02-24-first-bad-version.md)                                                                 | 简单       |
-    |     | 658  | [找到 K 个最接近的元素](./_posts/2021-02-25-find-k-closest-elements.md)                                                                 | 中等       |
+    |     | 658 | [找到 K 个最接近的元素](./_posts/2021-02-25-find-k-closest-elements.md)                                                      | 中等       |
 
 5. **Two Pointers**
 
@@ -150,11 +150,12 @@ excerpt: This website is mainly for storing my notes when solving data structure
 
 6. **Dynamic Programming**
 
-    |     | No  | Problem                                              | Difficulty |
-    | --- | --- | ---------------------------------------------------- | ---------- |
-    |     |     | 动态规划总结                                         |            |
-    |     | 279 | [完全平方数](./_posts/2021-02-09-perfect-squares.md) | 中等       |
-    |     |     |                                                      |            |
+    |     | No  | Problem                                                            | Difficulty |
+    | --- | --- | ------------------------------------------------------------------ | ---------- |
+    |     |     | [动态规划总结](./_posts/2021-03-03-dynamic-programming-summary.md) |            |
+    |     | 279 | [完全平方数](./_posts/2021-02-09-perfect-squares.md)               | 中等       |
+    |     | 338 | [比特位计数](./_posts/2021-03-03-counting-bits.md)            | 中等       |
+    |     |     |                                                                    |            |
 
 7. **Union Find**
 
@@ -165,10 +166,10 @@ excerpt: This website is mainly for storing my notes when solving data structure
 
 8. **Bit Manipulation**
 
-    |     | No  | Problem    | Difficulty |
-    | --- | --- | ---------- | ---------- |
-    |     |     | 位运算总结 |            |
-    |     |     |            |            |
+    |     | No  | Problem                                                       | Difficulty |
+    | --- | --- | ------------------------------------------------------------- | ---------- |
+    |     |     | [位运算总结](./_posts/2021-03-03-bit-manipulation-summary.md) |            |
+    |     | 338 | [比特位计数](./_posts/2021-03-03-counting-bits.md)            | 中等       |
 
 ----
 # Series
