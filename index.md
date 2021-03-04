@@ -155,6 +155,7 @@ excerpt: This website is mainly for storing my notes when solving data structure
     |     | 27  | [移除元素](./_posts/2021-03-05-remove-element.md)                        | 简单       |
     |     | 167 | [两数之和 II](./_posts/2021-03-04-two-sum-ii-input-array-is-sorted.md) | 简单       |
     |     | 344 | [反转字符串](./_posts/2021-03-03-reverse-string.md)                    | 简单       |
+    |     | 485 | [最大连续 1 的个数](./_posts/2021-03-05-max-consecutive-ones.md)               | 简单       |
     |     | 541 | [反转字符串 II](./_posts/2021-03-04-reverse-string-2.md)               | 简单       |
     |     | 561 | [数组拆分 I](./_posts/2021-03-04-array-partition-i.md)                 | 简单       |
     |     |     |                                                                        |            |
