@@ -20,9 +20,13 @@ excerpt: This website is mainly for storing my notes when solving data structure
     |     | No  | Problem                                                                   | Difficulty |
     | --- | --- | ------------------------------------------------------------------------- | ---------- |
     |     |     | [数组总结](./_posts/2021-02-03-list-summary.md)                           |            |
+    |     | 1 | [两数之和](./_posts/2021-03-04-two-sum.md) | 简单       |
+    |     | 27  | [移除元素](./_posts/2021-03-05-remove-element.md)                        | 简单       |
     |     | 56  | [合并区间](./_posts/2021-02-17-merge-intervals.md)                        | 中等       |
+    |     | 167 | [两数之和 II](./_posts/2021-03-04-two-sum-ii-input-array-is-sorted.md) | 简单       |
     |     | 394 | [字符串解码](./_posts/2021-02-06-decode-string.md)                        | 中等       |
     |     | 498 | [对角线遍历](./_posts/2021-02-18-diagonal-traverse.md)                    | 中等       |
+    |     | 561 | [数组拆分 I](./_posts/2021-03-04-array-partition-i.md)                 | 简单       |
     |     | 768 | [最多能完成排序的块 II](./_posts/2021-02-07-max-chunks-to-make-sorted.md) | 困难       |
  
 2. **Linked List**
@@ -148,6 +152,7 @@ excerpt: This website is mainly for storing my notes when solving data structure
     |     | No  | Problem                                                                | Difficulty |
     | --- | --- | ---------------------------------------------------------------------- | ---------- |
     |     |     | [双指针总结](./posts/../_posts/2021-03-01-two-pointers-summary.md)     |            |
+    |     | 27  | [移除元素](./_posts/2021-03-05-remove-element.md)                        | 简单       |
     |     | 167 | [两数之和 II](./_posts/2021-03-04-two-sum-ii-input-array-is-sorted.md) | 简单       |
     |     | 344 | [反转字符串](./_posts/2021-03-03-reverse-string.md)                    | 简单       |
     |     | 541 | [反转字符串 II](./_posts/2021-03-04-reverse-string-2.md)               | 简单       |
