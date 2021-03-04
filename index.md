@@ -143,11 +143,14 @@ excerpt: This website is mainly for storing my notes when solving data structure
 
 5. **Two Pointers**
 
-    |     | No  | Problem                                                            | Difficulty |
-    | --- | --- | ------------------------------------------------------------------ | ---------- |
-    |     |     | [双指针总结](./posts/../_posts/2021-03-01-two-pointers-summary.md) |            |
-    |     |  344   | [反转字符串](./_posts/2021-03-03-reverse-string.md)                | 简单       |
-    |     |     |                                                                    |            |
+    |     | No  | Problem                                                                | Difficulty |
+    | --- | --- | ---------------------------------------------------------------------- | ---------- |
+    |     |     | [双指针总结](./posts/../_posts/2021-03-01-two-pointers-summary.md)     |            |
+    |     | 167 | [两数之和 II](./_posts/2021-03-04-two-sum-ii-input-array-is-sorted.md) | 简单       |
+    |     | 344 | [反转字符串](./_posts/2021-03-03-reverse-string.md)                    | 简单       |
+    |     | 541 | [反转字符串 II](./_posts/2021-03-04-reverse-string-2.md)               | 简单       |
+    |     | 561 | [数组拆分 I](./_posts/2021-03-04-array-partition-i.md)                 | 简单       |
+    |     |     |                                                                        |            |
 
 6. **Dynamic Programming**
 
