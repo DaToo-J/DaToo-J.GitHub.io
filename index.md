@@ -85,6 +85,8 @@ excerpt: This website is mainly for storing my notes when solving data structure
     |     |       | [哈希表总结](./_posts/2021-02-18-hashmap-summary.md)                                             |            |
     |     | 10.02 | [变位词组](./_posts/2021-02-18-group-anagrams-lcci.md)                                           | 中等       |
     |     | 16.02 | [单词频率](./_posts/2021-02-18-words-frequency-lcci.md)                                          | 中等       |
+    |     | 1 | [两数之和](./_posts/2021-03-04-two-sum.md) | 简单       |
+    |     | 167 | [两数之和 II](./_posts/2021-03-04-two-sum-ii-input-array-is-sorted.md) | 简单       |
     |     | 954   | [二倍数对数组](./_posts/2021-02-18-array-of-doubled-pairs.md)                                    | 中等       |
     |     | 1261  | [在受污染的二叉树中查找元素](./_posts/2021-02-18-find-elements-in-a-contaminated-binary-tree.md) | 中等       |
 

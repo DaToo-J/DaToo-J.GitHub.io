@@ -184,5 +184,6 @@ temp.most_common() # >>> [('a', 5), ('b', 4), ('c', 3), ('d', 2), ('e', 1)]
 | --- | ---------------- | ---------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------ |
 | 10.02 | 变位词组 | 中等       | [题目](https://leetcode-cn.com/problems/group-anagrams-lcci/) | [题解]({% link _posts/2021-02-18-group-anagrams-lcci.md %}) | 哈希表的 **按键聚合**  |
 | 16.02  | 单词频率 | 中等       | [题目](https://leetcode-cn.com/problems/words-frequency-lcci/) | [题解]({% link _posts/2021-02-18-words-frequency-lcci.md %}) | 哈希表的基本使用 |
+   | 167    |    两数之和 II     | 简单       | [题目](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [题解]({% link _posts/2021-03-04-two-sum-ii-input-array-is-sorted.md %})            |   读懂题意再使用一头一尾双指针就可以解出来。也可以使用哈希表的方法。      |
 | 954  | 二倍数对数组 | 中等       | [题目](https://leetcode-cn.com/problems/array-of-doubled-pairs/) | [题解]({% link _posts/2021-02-18-array-of-doubled-pairs.md %}) | 哈希表的 **计数** 用途 |
 | 1261  | 在受污染的二叉树中查找元素 | 中等       | [题目](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/) | [题解]({% link _posts/2021-02-18-find-elements-in-a-contaminated-binary-tree.md %}) | 哈希表的使用 |
