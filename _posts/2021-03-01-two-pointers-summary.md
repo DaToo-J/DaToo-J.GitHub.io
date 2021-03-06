@@ -38,8 +38,6 @@ excerpt: 双指针的常见用法及相关题目总结
 
 ## 2. 两个头
 
-### 举例：数组的快慢指针
-
 > 给你一个数组 nums 和一个值 val，你需要 原地 移除所有数值等于 val 的元素，并返回移除后数组的新长度。
 
 1. 思路 1: 初始化一个新的数组，将原始数组中，任何不等于 `val` 的元素都填入新数组中。
@@ -61,12 +59,10 @@ excerpt: 双指针的常见用法及相关题目总结
            return slow
    ```
 
-#### 相关题目
+### 相关题目
 
    | No  | Problem           | Difficulty | Link                                                           | Solution                                               | Comment                                                                   |
    | --- | ----------------- | ---------- | -------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------- |
    | 27  | 移除元素          | 简单       | [题目](https://leetcode-cn.com/problems/remove-element/)       | [题解]({% link _posts/2021-03-05-remove-element.md %}) | 快慢指针在数组里的使用，看懂上面动图就可以做的题。                        |
    | 209 | 长度最小的子数组 | 中等       | [题目](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [题解]({% link _posts/2021-03-05-minimum-size-subarray-sum.md %}) | 既可以用双指针的滑动窗口，又可以用二分法，是一道很好的练习题 |
    | 485 | 最大连续 1 的个数 | 简单       | [题目](https://leetcode-cn.com/problems/max-consecutive-ones/) | [题解]({% link _posts/2021-03-05-max-consecutive-ones.md %}) | 与 [27 移除元素]({% link _posts/2021-03-05-remove-element.md %}) 相差无几 |
-
-### 举例：链表的快慢指针
