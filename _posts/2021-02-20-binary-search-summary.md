@@ -211,6 +211,7 @@ def binarySearch(nums, target):
     [getGrade(score) for score in [24, 31, 42, 42, 57, 59, 68, 75, 91, 96]]
     # ['F', 'F', 'F', 'F', 'F', 'F', 'D', 'C', 'A', 'A']
     ```
+5. 在 209 题 [长度最小的子数组]({% link _posts/2021-03-05-minimum-size-subarray-sum.md %}) 中有使用到 `bisect` 模块。
 
 
 
@@ -222,6 +223,7 @@ def binarySearch(nums, target):
    | --- | ------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
    | 69  | x 的平方根                                 | 简单       | [题目](https://leetcode-cn.com/problems/sqrtx/)                                                   | [题解]({% link _posts/2021-02-23-sqrt-x.md %})                                                  | 二分搜索的入门题目，使用「模版 I」即可                                       |
    | 33  | 搜索旋转排序数组                           | 中等       | [题目](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)                          | [题解]({% link _posts/2021-02-23-search-in-rotated-sorted-array.md %})                          | 比「x 的平方根」更进阶一点，二分搜索的另一种使用场景。同样使用「模版 I」即可 |
+   | 209 | 长度最小的子数组 | 中等       | [题目](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [题解]({% link _posts/2021-03-05-minimum-size-subarray-sum.md %}) | 既可以用双指针的滑动窗口，又可以用二分法，是一道很好的练习题。使用到了 `bisect` 模块。 |
    | 278 | 第一个错误的版本                           | 简单       | [题目](https://leetcode-cn.com/problems/first-bad-version/)                                       | [题解]({% link _posts/2021-02-24-first-bad-version.md %})                                       | 二分搜索「模版 II」的入门题目                                                |
    | 162 | 寻找峰值                                   | 中等       | [题目](https://leetcode-cn.com/problems/find-peak-element/)                                       | [题解]({% link _posts/2021-02-24-find-peak-element.md %})                                       | 二分搜索「模版 II」的进阶题目。二分搜索不仅仅局限于左右指针与中间值的比较。  |
    | 34  | 在排序数组中查找元素的第一个和最后一个位置 | 中等       | [题目](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [题解]({% link _posts/2021-02-25-find-first-and-last-position-of-element-in-sorted-array.md %}) | 二分搜索「模版 III」和「模版 I」都可以使用的进阶题目。不同的解题思路使用不同的模版。                                             |
