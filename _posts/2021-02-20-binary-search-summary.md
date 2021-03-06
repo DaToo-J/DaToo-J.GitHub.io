@@ -145,7 +145,76 @@ def binarySearch(nums, target):
 
 ![binary-search]({{ "./assets/images/binary-search.jpg" | absolute_url }})
  
-## 三、相关题目
+## 三、相关模块
+
+> python 模块 [`bisect`（数组二分查找算法）](https://docs.python.org/zh-cn/3.6/library/bisect.html) 可用于 **维护有序列表**。`bisection` 是一分为二的意思。
+> 
+> `bisect` 的操作是基于二分搜索来实现的，相比于循环和递归的二分性能更好一些。
+> 
+> `bisect` 主要操作可分为两类： `bisect*`（搜索）和 `insort*`（插入）
+
+
+1. `bisect*`（搜索）：
+   1. `bisect.bisect_left(nums, item, lo=0, hi=len(nums))`：
+      1. `nums`：待搜索的 **有序列表**
+      2. `item`：待搜索的元素
+      3. 函数作用：如果要在有序列表 `nums` 中插入元素 `item`，应该插入到哪个位置，该函数会返回这个位置索引。如果 `nums` 中存在 `item`，则返回其左边的索引。
+      4. `lo, hi`：指定有序列表的搜索区间，默认是整个列表。
+    2. `bisect.bisect_right(nums, item, lo=0, hi=len(nums))`：和 `bisect_left()` 相似，如果 `item` 已存在，则返回其右边的索引。
+    3. `bisect.bisect(nums, item, lo=0, hi=len(nums))`：和 `bisect_left()` 相似，如果 `item` 已存在，则返回其右边的索引。
+
+2. `insort*`（插入）：
+   1. `bisect.insort_left(nums, item, lo=0, hi=len(nums))`：`bisect_left()` 二分搜索后，再插入。`nums.insert(bisect.bisect_left(nums, item, lo, hi), item)` 的效果相同。
+   2. `bisect.insort_right(nums, item, lo=0, hi=len(nums))`：同 `nums.insert(bisect.bisect_right(nums, item, lo, hi), item)`
+   3. `bisect.insort(nums, item, lo=0, hi=len(nums))`：同 `nums.insert(bisect.bisect(nums, item, lo, hi), item)`
+
+3. 🌰：
+    ```python
+    import bisect
+    import random
+
+    nums = []
+    print("item idx  nums")
+    print("---- ---  ----")
+    for _ in range(10):
+        item = random.randint(1, 100)
+
+        # 通过二分搜索获取 item 插入到 nums 的索引
+        idx = bisect.bisect_left(nums, item)
+        # 插入 item
+        bisect.insort_left(nums, item)
+
+        print("%4d %3d " % (item, idx), nums)
+    ```
+    结果输出：
+    ```  
+    item idx  nums
+    ---- ---  ----
+    42   0  [42]
+    24   0  [24, 42]
+    42   1  [24, 42, 42]
+    75   3  [24, 42, 42, 75]
+    59   3  [24, 42, 42, 59, 75]
+    68   4  [24, 42, 42, 59, 68, 75]
+    31   1  [24, 31, 42, 42, 59, 68, 75]
+    96   7  [24, 31, 42, 42, 59, 68, 75, 96]
+    57   4  [24, 31, 42, 42, 57, 59, 68, 75, 96]
+    91   8  [24, 31, 42, 42, 57, 59, 68, 75, 91, 96]
+    ```
+
+4. 还可用于分数等级的计算：
+    ```python
+    def getGrade(score, breakpoints=[60, 70, 80, 90], grades='FDCBA'):
+        i = bisect.bisect(breakpoints, score)
+        return grades[i]
+
+    [getGrade(score) for score in [24, 31, 42, 42, 57, 59, 68, 75, 91, 96]]
+    # ['F', 'F', 'F', 'F', 'F', 'F', 'D', 'C', 'A', 'A']
+    ```
+
+
+
+## 四、相关题目
 
 
 
