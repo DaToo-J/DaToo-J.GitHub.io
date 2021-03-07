@@ -70,3 +70,20 @@ excerpt: 链表题目的解题思路汇总，不断更新中 ...
    | 剑指 Offer 22 | 链表中倒数第k个节点       | 简单       | [题目](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [题解]({% link _posts/2021-03-07-nth-node-from-end-of-list.md %})        | 速度相同的快慢指针在链表的经典应用                                                                                                                                             |
    | 19            | 删除链表的倒数第 N 个结点 | 中等       | [题目](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)             | [题解]({% link _posts/2021-03-07-remove-nth-node-from-end-of-list.md %}) | 速度相同的快慢指针在链表的经典应用，该题解是基于 [链表中倒数第k个节点]({% link _posts/2021-03-07-nth-node-from-end-of-list.md %}) 的解法进阶而来，需要注意链表的一些边界处理～ |
   
+
+## 3. 需注意的点
+
+> 参考 LeetCode 官方的 LeetBook
+
+1. 检查空节点：在使用 `next` 属性时，需判断前置节点是否为空。
+   1. 使用 `fast.next` 时：`fast` 不能为空；
+   2. 使用 `fast.next.next` 时：`fast` 和 `fast.next` 不能为空。
+
+2. 如果可以，应当检查循环的结束条件。
+
+3. 复杂度分析：
+   1. 如果只使用指针，而不使用任何其他额外的空间，那么空间复杂度将是 `O(1)`。
+   2. 如果使用快慢指针：每次移动较快的指针 2 步，每次移动较慢的指针 1 步
+      1. 如果没有循环，快指针需要 `N/2` 次才能到达链表的末尾，其中 `N` 是链表的长度。
+      2. 如果存在循环，则快指针需要 `M` 次才能赶上慢指针，其中 `M` 是链表中环的长度。
+      3. 显然，`M <= N`。所以我们将循环运行 N 次。对于每次循环，我们只需要常量级的时间。因此，该算法的时间复杂度总共为 `O(N)`。
