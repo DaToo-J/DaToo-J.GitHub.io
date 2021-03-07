@@ -47,3 +47,14 @@ excerpt: 链表题目的解题思路汇总，不断更新中 ...
              prev = XX
          ```
 
+
+
+### 相关题目
+
+   | No  | Problem  | Difficulty | Link                                                        | Solution                                                  | Comment |
+   | --- | -------- | ---------- | ----------------------------------------------------------- | --------------------------------------------------------- | ------- |
+   | 141 | 环形链表 | 简单       | [题目](https://leetcode-cn.com/problems/linked-list-cycle/) | [题解]({% link _posts/2021-03-06-linked-list-cycle.md %}) |    快慢指针在链表的经典应用     |
+   | 142 | 环形链表 II | 中等       | [题目](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [题解]({% link _posts/2021-03-06-linked-list-cycle-ii.md %}) |    快慢指针在链表的经典应用，比 [141 环形链表]({% link _posts/2021-03-06-linked-list-cycle.md %}) 更进阶一丢丢～     |
+   | 剑指 Offer 22 |  链表中倒数第k个节点 | 简单       | [题目](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [题解]({% link _posts/2021-03-07-nth-node-from-end-of-list.md %}) |    速度相同的快慢指针在链表的经典应用     |
+   | 19 |   删除链表的倒数第 N 个结点 | 中等       | [题目](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [题解]({% link _posts/2021-03-07-remove-nth-node-from-end-of-list.md %}) |    速度相同的快慢指针在链表的经典应用，该题解是基于 [链表中倒数第k个节点]({% link _posts/2021-03-07-nth-node-from-end-of-list.md %}) 的解法进阶而来，需要注意链表的一些边界处理～    |
+  
