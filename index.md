@@ -20,14 +20,14 @@ excerpt: This website is mainly for storing my notes when solving data structure
     |     | No  | Problem                                                                   | Difficulty |
     | --- | --- | ------------------------------------------------------------------------- | ---------- |
     |     |     | [数组总结](./_posts/2021-02-03-list-summary.md)                           |            |
-    |     | 1 | [两数之和](./_posts/2021-03-04-two-sum.md) | 简单       |
-    |     | 27  | [移除元素](./_posts/2021-03-05-remove-element.md)                        | 简单       |
+    |     | 1   | [两数之和](./_posts/2021-03-04-two-sum.md)                                | 简单       |
+    |     | 27  | [移除元素](./_posts/2021-03-05-remove-element.md)                         | 简单       |
     |     | 56  | [合并区间](./_posts/2021-02-17-merge-intervals.md)                        | 中等       |
-    |     | 167 | [两数之和 II](./_posts/2021-03-04-two-sum-ii-input-array-is-sorted.md) | 简单       |
-    |     | 209   | [长度最小的子数组](./_posts/2021-03-05-minimum-size-subarray-sum.md)                        | 中等       |
+    |     | 167 | [两数之和 II](./_posts/2021-03-04-two-sum-ii-input-array-is-sorted.md)    | 简单       |
+    |     | 209 | [长度最小的子数组](./_posts/2021-03-05-minimum-size-subarray-sum.md)      | 中等       |
     |     | 394 | [字符串解码](./_posts/2021-02-06-decode-string.md)                        | 中等       |
     |     | 498 | [对角线遍历](./_posts/2021-02-18-diagonal-traverse.md)                    | 中等       |
-    |     | 561 | [数组拆分 I](./_posts/2021-03-04-array-partition-i.md)                 | 简单       |
+    |     | 561 | [数组拆分 I](./_posts/2021-03-04-array-partition-i.md)                    | 简单       |
     |     | 768 | [最多能完成排序的块 II](./_posts/2021-02-07-max-chunks-to-make-sorted.md) | 困难       |
  
 2. **Linked List**
@@ -37,6 +37,8 @@ excerpt: This website is mainly for storing my notes when solving data structure
     |     |     | [链表总结](./_posts/2021-01-31-linked-list-summary.md)             |            |
     |     | 24  | [两两交换链表中的节点](./_posts/2021-02-08-swap-nodes-in-pairs.md) | 中等       |
     |     | 61  | [旋转链表](./_posts/2021-02-07-rotate-list.md)                     | 中等       |
+    |     | 141 | [环形链表](./_posts/2021-03-06-linked-list-cycle.md)               | 简单       |
+    |     | 142 | [环形链表 II](./_posts/2021-03-06-linked-list-cycle-ii.md)               | 中等       |
 
 3. **Queue**
 
@@ -90,8 +92,8 @@ excerpt: This website is mainly for storing my notes when solving data structure
     |     |       | [哈希表总结](./_posts/2021-02-18-hashmap-summary.md)                                             |            |
     |     | 10.02 | [变位词组](./_posts/2021-02-18-group-anagrams-lcci.md)                                           | 中等       |
     |     | 16.02 | [单词频率](./_posts/2021-02-18-words-frequency-lcci.md)                                          | 中等       |
-    |     | 1 | [两数之和](./_posts/2021-03-04-two-sum.md) | 简单       |
-    |     | 167 | [两数之和 II](./_posts/2021-03-04-two-sum-ii-input-array-is-sorted.md) | 简单       |
+    |     | 1     | [两数之和](./_posts/2021-03-04-two-sum.md)                                                       | 简单       |
+    |     | 167   | [两数之和 II](./_posts/2021-03-04-two-sum-ii-input-array-is-sorted.md)                           | 简单       |
     |     | 954   | [二倍数对数组](./_posts/2021-02-18-array-of-doubled-pairs.md)                                    | 中等       |
     |     | 1261  | [在受污染的二叉树中查找元素](./_posts/2021-02-18-find-elements-in-a-contaminated-binary-tree.md) | 中等       |
 
@@ -145,7 +147,7 @@ excerpt: This website is mainly for storing my notes when solving data structure
     |     | 34  | [在排序数组中查找元素的第一个和最后一个位置](./_posts/2021-02-25-find-first-and-last-position-of-element-in-sorted-array.md) | 中等       |
     |     | 69  | [x 的平方根](./_posts/2021-02-23-sqrt-x.md)                                                                                  | 简单       |
     |     | 162 | [寻找峰值](./_posts/2021-02-24-find-peak-element.md)                                                                         | 中等       |
-    |     | 209   | [长度最小的子数组](./_posts/2021-03-05-minimum-size-subarray-sum.md)                        | 中等       |
+    |     | 209 | [长度最小的子数组](./_posts/2021-03-05-minimum-size-subarray-sum.md)                                                         | 中等       |
     |     | 278 | [第一个错误的版本](./_posts/2021-02-24-first-bad-version.md)                                                                 | 简单       |
     |     | 658 | [找到 K 个最接近的元素](./_posts/2021-02-25-find-k-closest-elements.md)                                                      | 中等       |
 
@@ -153,12 +155,14 @@ excerpt: This website is mainly for storing my notes when solving data structure
 
     |     | No  | Problem                                                                | Difficulty |
     | --- | --- | ---------------------------------------------------------------------- | ---------- |
-    |     |     | [双指针总结](./_posts/2021-03-01-two-pointers-summary.md)     |            |
-    |     | 27  | [移除元素](./_posts/2021-03-05-remove-element.md)                        | 简单       |
+    |     |     | [双指针总结](./_posts/2021-03-01-two-pointers-summary.md)              |            |
+    |     | 27  | [移除元素](./_posts/2021-03-05-remove-element.md)                      | 简单       |
+    |     | 141 | [环形链表](./_posts/2021-03-06-linked-list-cycle.md)                   | 简单       |
+    |     | 142 | [环形链表 II](./_posts/2021-03-06-linked-list-cycle-ii.md)               | 中等       |
     |     | 167 | [两数之和 II](./_posts/2021-03-04-two-sum-ii-input-array-is-sorted.md) | 简单       |
-    |     | 209   | [长度最小的子数组](./_posts/2021-03-05-minimum-size-subarray-sum.md)                        | 中等       |
+    |     | 209 | [长度最小的子数组](./_posts/2021-03-05-minimum-size-subarray-sum.md)   | 中等       |
     |     | 344 | [反转字符串](./_posts/2021-03-03-reverse-string.md)                    | 简单       |
-    |     | 485 | [最大连续 1 的个数](./_posts/2021-03-05-max-consecutive-ones.md)               | 简单       |
+    |     | 485 | [最大连续 1 的个数](./_posts/2021-03-05-max-consecutive-ones.md)       | 简单       |
     |     | 541 | [反转字符串 II](./_posts/2021-03-04-reverse-string-2.md)               | 简单       |
     |     | 561 | [数组拆分 I](./_posts/2021-03-04-array-partition-i.md)                 | 简单       |
     |     |     |                                                                        |            |
