@@ -110,7 +110,8 @@ excerpt: This website is mainly for storing my notes when solving data structure
 
     |     | No  | Problem                                               | Difficulty |
     | --- | --- | ----------------------------------------------------- | ---------- |
-    |     |     | 回溯总结                                              |            |
+    |     |     | [回溯总结](./_posts/2021-03-09-backtracking-summary.md)                                             |            |
+    |     | 131 | [分割回文串](./_posts/2021-03-08-palindrome-partitioning.md)          | 中等       |
     |     | 133 | [克隆图](./_posts/2021-02-13-clone-graph.md)          | 中等       |
     |     | 200 | [岛屿数量](./_posts/2021-02-11-numbers-of-islands.md) | 中等       |
     |     |     |                                                       |            |
@@ -162,6 +163,7 @@ excerpt: This website is mainly for storing my notes when solving data structure
     |     | 剑指 Offer 22   | [链表中倒数第k个节点](./_posts/2021-03-07-nth-node-from-end-of-list.md) | 简单       |
     |     | 19  | [删除链表的倒数第 N 个结点](./_posts/2021-03-07-remove-nth-node-from-end-of-list.md) | 中等       |
     |     | 27  | [移除元素](./_posts/2021-03-05-remove-element.md)                                    | 简单       |
+    |     | 131 | [分割回文串](./_posts/2021-03-08-palindrome-partitioning.md)          | 中等       |
     |     | 141 | [环形链表](./_posts/2021-03-06-linked-list-cycle.md)                                 | 简单       |
     |     | 142 | [环形链表 II](./_posts/2021-03-06-linked-list-cycle-ii.md)                           | 中等       |
     |     | 160 | [相交链表](./_posts/2021-03-07-intersection-of-two-linked-lists.md)               | 简单       |
@@ -186,7 +188,7 @@ excerpt: This website is mainly for storing my notes when solving data structure
 
     |     | No  | Problem    | Difficulty |
     | --- | --- | ---------- | ---------- |
-    |     |     | 并查集总结 |            |
+    |     |     | [并查集总结](./_posts/2021-03-07-union-find-summary.md) |            |
     |     |     |            |            |
 
 8. **Bit Manipulation**
