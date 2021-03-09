@@ -32,13 +32,14 @@ excerpt: 双指针在数组和链表中的常见用法及相关题目总结
    | No  | Problem       | Difficulty | Link                                                                       | Solution                                                                 | Comment                                                                      |
    | --- | ------------- | ---------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
    | 1   | 两数之和      | 简单       | [题目](https://leetcode-cn.com/problems/two-sum/)                          | [题解]({% link _posts/2021-03-04-two-sum.md %})                          | 这道题不用双指针，但是和「167 两数之和 II」相关。                            |
+   | 131 | 分割回文串   | 中等       | [题目](https://leetcode-cn.com/problems/palindrome-partitioning/) | [题解]({% link _posts/2021-03-08-palindrome-partitioning.md %}) | 双指针在回文串中的应用还是比较经典的           |
    | 167 | 两数之和 II   | 简单       | [题目](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [题解]({% link _posts/2021-03-04-two-sum-ii-input-array-is-sorted.md %}) | 读懂题意再使用一头一尾双指针就可以解出来。也可以使用哈希表的方法。           |
    | 344 | 反转字符串    | 简单       | [题目](https://leetcode-cn.com/problems/reverse-string/)                   | [题解]({% link _posts/2021-03-03-reverse-string.md %})                   | 看懂上面的动图就会做的一道题                                                 |
    | 541 | 反转字符串 II | 简单       | [题目](https://leetcode-cn.com/problems/reverse-string-ii/)                | [题解]({% link _posts/2021-03-04-reverse-string-2.md %})                 | 和 [344 反转字符串]({% link _posts/2021-03-03-reverse-string.md %}) 相差无几 |
    | 561 | 数组拆分 I    | 简单       | [题目](https://leetcode-cn.com/problems/array-partition-i/)                | [题解]({% link _posts/2021-03-04-array-partition-i.md %})                | 这个双指针不太明显？🥲                                                        |
    
 
-## 2. 两个头（数组）
+## 2. 两个头（非链表）
 
 > 给你一个数组 nums 和一个值 val，你需要 原地 移除所有数值等于 val 的元素，并返回移除后数组的新长度。
 
