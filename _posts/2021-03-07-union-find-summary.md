@@ -48,5 +48,44 @@ excerpt: 并查集的基本思路、常见题目汇总
 
 ## 二、模版
 
+```python
+class UF:
+    parent = {}
+    size = {}
+    cnt = 0
+    
+    def __init__(self, M):
+        # 初始化 parent，size 和 cnt
+
+    def find(self, x):
+        while x != self.parent[x]:
+            x = self.parent[x]
+            # 路径压缩
+            self.parent[x] = self.parent[self.parent[x]]
+        return x
+      
+    def union(self, p, q):
+        if self.connected(p, q): return
+
+        leader_p = self.find(p)
+        leader_q = self.find(q)
+        
+        # 小的树挂到大的树上， 使树尽量平衡
+        if self.size[leader_p] < self.size[leader_q]:
+            self.parent[leader_p] = leader_q
+            self.size[leader_q] += self.size[leader_p]
+        else:
+            self.parent[leader_q] = leader_p
+            self.size[leader_p] += self.size[leader_q]
+        self.cnt -= 1
+
+    def connected(self, p, q):
+        return self.find(p) == self.find(q)
+```
 
 ## 三、相关题目
+
+   | No  | Problem    | Difficulty | Link     | Solution                      | Comment |
+   | --- | ---------- | ---------- | -------- | ----------------------------- | ------- |
+   |  |  | 中等       | [题目]() | [题解]|         |
+   
