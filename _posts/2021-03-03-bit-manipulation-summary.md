@@ -79,8 +79,9 @@ excerpt: 位运算的基本操作、相关题目的总结
 
 # 二、相关题目
 
-   | No  | Problem    | Difficulty | Link     | Solution                      | Comment |
-   | --- | ---------- | ---------- | -------- | ----------------------------- | ------- |
-   | 338 | 比特位计数 | 中等       | [题目](https://leetcode-cn.com/problems/counting-bits/) | [题解]({% link _posts/2021-03-03-counting-bits.md %}) |     找到规律并结合动态规划的思想即可解出题目    |
-   | 面试题 08.04 | 幂集 | 中等       | [题目](https://leetcode-cn.com/problems/power-set-lcci/) | [题解]({% link _posts/2021-03-15-power-set-lcci.md %}) |     位运算和回溯算法都可以实现    |
+   | No           | Problem          | Difficulty | Link                                                     | Solution                                               | Comment                                  |
+   | ------------ | ---------------- | ---------- | -------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------- |
+   | 136          | 只出现一次的数字 | 简单       | [题目](https://leetcode-cn.com/problems/single-number/)  | [题解]({% link _posts/2021-03-15-single-number.md %})  | 「只出现一次的数字」系列之一             |
+   | 338          | 比特位计数       | 中等       | [题目](https://leetcode-cn.com/problems/counting-bits/)  | [题解]({% link _posts/2021-03-03-counting-bits.md %})  | 找到规律并结合动态规划的思想即可解出题目 |
+   | 面试题 08.04 | 幂集             | 中等       | [题目](https://leetcode-cn.com/problems/power-set-lcci/) | [题解]({% link _posts/2021-03-15-power-set-lcci.md %}) | 位运算和回溯算法都可以实现               |
    
