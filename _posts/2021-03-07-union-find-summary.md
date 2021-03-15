@@ -223,7 +223,7 @@ class UF:
 
 ## 四、相关题目
 
-   | No  | Problem    | Difficulty | Link     | Solution                      | Comment |
-   | --- | ---------- | ---------- | -------- | ----------------------------- | ------- |
-   |  |  | 中等       | [题目]() | [题解]|         |
+   | No  | Problem            | Difficulty | Link                                                                                     | Solution                                                                               | Comment          |
+   | --- | ------------------ | ---------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------- |
+   |     | 连通网络的操作次数 | 中等       | [题目](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/) | [题解]({% link _posts/2021-03-15-number-of-operations-to-make-network-connected.md %}) | 并查集的基础应用 |
    
