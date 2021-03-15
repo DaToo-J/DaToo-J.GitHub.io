@@ -46,7 +46,7 @@ excerpt: 是并查集就进来看看吧，反正也不会
 
 ## 思路 
 
-![make-network-connect]({{ "./assets/images/make-network-connect.png" | absolute_url }})
+![make-network-connect]({{ "./assets/images/make-network-connect.png" | absolute_url }}){:height="75%" width="75%"}
 
 ## 代码 
 
