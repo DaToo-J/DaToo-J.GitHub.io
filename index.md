@@ -114,6 +114,7 @@ excerpt: This website is mainly for storing my notes when solving data structure
     |     | 131 | [分割回文串](./_posts/2021-03-08-palindrome-partitioning.md) | 中等       |
     |     | 133 | [克隆图](./_posts/2021-02-13-clone-graph.md)                 | 中等       |
     |     | 200 | [岛屿数量](./_posts/2021-02-11-numbers-of-islands.md)        | 中等       |
+    |     | 面试题 08.04 | [幂集](./_posts/2021-03-15-power-set-lcci.md)                 | 中等       |
     |     |     |                                                              |            |
 
 2. **Graph Searching**
@@ -194,10 +195,11 @@ excerpt: This website is mainly for storing my notes when solving data structure
 
 8. **Bit Manipulation**
 
-    |     | No  | Problem                                                       | Difficulty |
-    | --- | --- | ------------------------------------------------------------- | ---------- |
-    |     |     | [位运算总结](./_posts/2021-03-03-bit-manipulation-summary.md) |            |
-    |     | 338 | [比特位计数](./_posts/2021-03-03-counting-bits.md)            | 中等       |
+    |     | No           | Problem                                                       | Difficulty |
+    | --- | ------------ | ------------------------------------------------------------- | ---------- |
+    |     |              | [位运算总结](./_posts/2021-03-03-bit-manipulation-summary.md) |            |
+    |     | 338          | [比特位计数](./_posts/2021-03-03-counting-bits.md)            | 中等       |
+    |     | 面试题 08.04 | [幂集](./_posts/2021-03-15-power-set-lcci.md)                 | 中等       |
 
 ----
 # Series
