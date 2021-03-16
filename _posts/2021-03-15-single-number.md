@@ -64,3 +64,7 @@ class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         return sum(set(nums)) * 2 - sum(nums)
 ```
+
+## 分析
+
+1. 位运算的空间复杂度只需要 `O(1)`，而数学的解题思路的空间复杂度需要 `O(n)`。
