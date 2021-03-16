@@ -195,12 +195,14 @@ excerpt: This website is mainly for storing my notes when solving data structure
 
 8. **Bit Manipulation**
 
-    |     | No           | Problem                                                       | Difficulty |
-    | --- | ------------ | ------------------------------------------------------------- | ---------- |
-    |     |              | [位运算总结](./_posts/2021-03-03-bit-manipulation-summary.md) |            |
-    |     | 136          | [只出现一次的数字](./_posts/2021-03-15-single-number.md)      | 简单       |
-    |     | 338          | [比特位计数](./_posts/2021-03-03-counting-bits.md)            | 中等       |
-    |     | 面试题 08.04 | [幂集](./_posts/2021-03-15-power-set-lcci.md)                 | 中等       |
+    |     | No           | Problem                                                          | Difficulty |
+    | --- | ------------ | ---------------------------------------------------------------- | ---------- |
+    |     |              | [位运算总结](./_posts/2021-03-03-bit-manipulation-summary.md)    |            |
+    |     | 136          | [只出现一次的数字](./_posts/2021-03-15-single-number.md)         | 简单       |
+    |     | 137          | [只出现一次的数字 II](./_posts/2021-03-16-single-number-ii.md)   | 中等       |
+    |     | 260          | [只出现一次的数字 III](./_posts/2021-03-16-single-number-iii.md) | 中等       |
+    |     | 338          | [比特位计数](./_posts/2021-03-03-counting-bits.md)               | 中等       |
+    |     | 面试题 08.04 | [幂集](./_posts/2021-03-15-power-set-lcci.md)                    | 中等       |
 
 ----
 # Series
@@ -234,7 +236,9 @@ excerpt: This website is mainly for storing my notes when solving data structure
     > 只出现一次的数字
 
 
-    |     | No           | Problem                                                       | Difficulty |
-    | --- | ------------ | ------------------------------------------------------------- | ---------- |
-    |     | 136          | [只出现一次的数字 I](./_posts/2021-03-15-single-number.md)      | 简单       |
+    |     | No  | Problem                                                          | Difficulty |
+    | --- | --- | ---------------------------------------------------------------- | ---------- |
+    |     | 136 | [只出现一次的数字 I](./_posts/2021-03-15-single-number.md)       | 简单       |
+    |     | 137 | [只出现一次的数字 II](./_posts/2021-03-16-single-number-ii.md)   | 中等       |
+    |     | 260 | [只出现一次的数字 III](./_posts/2021-03-16-single-number-iii.md) | 中等       |
    
